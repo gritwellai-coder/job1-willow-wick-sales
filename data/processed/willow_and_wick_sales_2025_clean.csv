@@ -1,621 +1,621 @@
-order_id,order_date,customer_id,product,category,quantity,unit_price,discount_code,region,sales_channel,is_return,revenue
-ORD-10001,2025-12-09,C1308,Linen Cushion Cover,Textiles,1,22.0,15%,Unknown,Etsy,False,22.0
-ORD-10002,2025-10-07,C1047,Bamboo Serving Board,Kitchen,1,28.0,,Midlands,Website,False,28.0
-ORD-10003,2025-05-16,C1360,Macrame Wall Hanging,Decor,1,39.0,,London,Instagram,False,39.0
-ORD-10004,2025-02-10,C1311,Scented Candle - Vanilla,Candles,1,14.99,,South East,Etsy,False,14.99
-ORD-10005,2025-08-25,C1108,Woven Storage Basket,Storage,2,31.0,,London,Website,False,62.0
-ORD-10006,2025-04-19,C1204,Ceramic Mug - Sand,Kitchen,3,12.5,15%,North West,Website,False,37.5
-ORD-10007,2025-10-28,C1005,Scented Candle - Vanilla,Candles,1,14.99,15%,London,Etsy,False,14.99
-ORD-10008,2025-05-17,C1320,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Website,False,12.5
-ORD-10009,2025-03-20,C1122,Soy Candle Gift Set,Candles,1,34.5,,Scotland,Website,False,34.5
-ORD-10010,2025-02-13,C1353,Scented Candle - Vanilla,Candles,4,14.99,FREESHIP,North West,Website,False,59.96
-ORD-10011,2025-11-29,C1117,Reed Diffuser,Fragrance,1,19.99,,Unknown,Website,False,19.99
-ORD-10012,2025-12-16,C1220,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,Scotland,Instagram,False,22.0
-ORD-10013,2025-01-28,C1127,Woven Storage Basket,Storage,1,31.0,10%,South East,Website,False,31.0
-ORD-10014,2025-12-18,C1199,Scented Candle - Lavender,Candles,4,14.99,,Wales,Etsy,False,59.96
-ORD-10015,2025-08-05,C1160,Macrame Wall Hanging,Decor,4,39.0,FREESHIP,North West,Etsy,False,156.0
-ORD-10016,2025-12-03,C1214,Soy Candle Gift Set,Candles,-1,34.5,,London,Instagram,True,-34.5
-ORD-10017,2025-12-11,C1051,Linen Cushion Cover,Textiles,1,22.0,15%,Unknown,Etsy,False,22.0
-ORD-10018,2025-06-28,C1153,Linen Cushion Cover,Textiles,-1,22.0,15%,London,Etsy,True,-22.0
-ORD-10019,2025-10-24,C1047,Reed Diffuser,Fragrance,1,19.99,,London,Website,False,19.99
-ORD-10020,2025-06-20,C1298,Woven Storage Basket,Storage,4,31.0,,London,Website,False,124.0
-ORD-10021,2025-07-06,C1121,Scented Candle - Lavender,Candles,3,14.99,,London,Website,False,44.97
-ORD-10022,2025-12-11,C1179,Ceramic Mug - Sand,Kitchen,2,12.5,10%,Midlands,Etsy,False,25.0
-ORD-10023,2025-01-13,C1059,Ceramic Mug - Sand,Kitchen,1,12.5,,Midlands,Instagram,False,12.5
-ORD-10024,2025-12-14,C1266,Ceramic Mug - Sage,Kitchen,2,12.5,,South East,Etsy,False,25.0
-ORD-10025,2025-11-03,C1151,Woven Storage Basket,Storage,3,31.0,FREESHIP,North West,Etsy,False,93.0
-ORD-10026,2025-07-14,C1226,Soy Candle Gift Set,Candles,2,34.5,10%,South East,Website,False,69.0
-ORD-10027,2025-03-28,C1023,Cotton Throw Blanket,Textiles,1,45.0,,North West,Website,False,45.0
-ORD-10028,2025-02-07,C1398,Woven Storage Basket,Storage,1,31.0,,Scotland,Website,False,31.0
-ORD-10029,2025-09-23,C1313,Reed Diffuser,Fragrance,1,19.99,10%,Midlands,Website,False,19.99
-ORD-10030,2025-10-08,C1225,Soy Candle Gift Set,Candles,2,34.5,,South East,Website,False,69.0
-ORD-10031,2025-06-13,C1215,Scented Candle - Vanilla,Candles,1,14.99,,London,Etsy,False,14.99
-ORD-10032,2025-01-11,C1308,Room Spray - Citrus,Fragrance,1,9.99,15%,London,Website,False,9.99
-ORD-10033,2025-11-22,C1013,Woven Storage Basket,Storage,2,31.0,FREESHIP,Scotland,Etsy,False,62.0
-ORD-10034,2025-11-11,C1276,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,South East,Instagram,False,22.0
-ORD-10035,2025-02-05,C1238,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0
-ORD-10036,2025-11-07,C1303,Macrame Wall Hanging,Decor,1,39.0,,Midlands,Instagram,False,39.0
-ORD-10037,2025-06-04,C1215,Room Spray - Citrus,Fragrance,2,9.99,,Midlands,Etsy,False,19.98
-ORD-10038,2025-11-22,C1374,Bamboo Serving Board,Kitchen,2,28.0,10%,South East,Etsy,False,56.0
-ORD-10039,2025-02-14,C1174,Bamboo Serving Board,Kitchen,1,28.0,,South East,Etsy,False,28.0
-ORD-10040,2025-10-03,C1207,Linen Cushion Cover,Textiles,2,22.0,,South East,Etsy,False,44.0
-ORD-10041,2025-08-31,C1274,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,Scotland,Website,False,12.5
-ORD-10042,2025-09-05,C1140,Room Spray - Citrus,Fragrance,4,9.99,,North West,Website,False,39.96
-ORD-10043,2025-03-06,C1033,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0
-ORD-10044,2025-12-10,C1301,Scented Candle - Vanilla,Candles,4,14.99,,London,Etsy,False,59.96
-ORD-10045,2025-11-09,C1304,Scented Candle - Vanilla,Candles,3,14.99,FREESHIP,London,Website,False,44.97
-ORD-10046,2025-05-25,C1331,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0
-ORD-10047,2025-11-20,C1041,Macrame Wall Hanging,Decor,2,39.0,10%,Wales,Website,False,78.0
-ORD-10048,2025-11-06,C1240,Scented Candle - Vanilla,Candles,1,14.99,,Scotland,Instagram,False,14.99
-ORD-10049,2025-10-27,C1389,Bamboo Serving Board,Kitchen,4,28.0,10%,South East,Website,False,112.0
-ORD-10050,2025-11-28,C1389,Reed Diffuser,Fragrance,2,19.99,10%,London,Instagram,False,39.98
-ORD-10051,2025-05-28,C1236,Macrame Wall Hanging,Decor,1,39.0,,London,Etsy,False,39.0
-ORD-10052,2025-05-30,C1141,Cotton Throw Blanket,Textiles,1,45.0,,South East,Website,False,45.0
-ORD-10053,2025-09-17,C1193,Scented Candle - Lavender,Candles,1,14.99,15%,London,Etsy,False,14.99
-ORD-10054,2025-11-08,C1018,Ceramic Mug - Sand,Kitchen,1,12.5,10%,Scotland,Etsy,False,12.5
-ORD-10055,2025-02-21,C1173,Bamboo Serving Board,Kitchen,1,28.0,,Midlands,Website,False,28.0
-ORD-10056,2025-06-18,C1116,Reed Diffuser,Fragrance,1,19.99,,South East,Etsy,False,19.99
-ORD-10057,2025-11-21,C1289,Scented Candle - Vanilla,Candles,1,14.99,10%,Scotland,Instagram,False,14.99
-ORD-10058,2025-11-09,C1147,Room Spray - Citrus,Fragrance,2,9.99,10%,South East,Etsy,False,19.98
-ORD-10059,2025-06-26,C1183,Cotton Throw Blanket,Textiles,2,45.0,15%,South East,Website,False,90.0
-ORD-10060,2025-12-04,C1310,Scented Candle - Lavender,Candles,1,14.99,,Scotland,Etsy,False,14.99
-ORD-10061,2025-05-09,C1046,Macrame Wall Hanging,Decor,2,39.0,,Scotland,Website,False,78.0
-ORD-10062,2025-12-12,C1239,Reed Diffuser,Fragrance,1,19.99,,London,Website,False,19.99
-ORD-10063,2025-12-13,C1134,Ceramic Mug - Sand,Kitchen,4,12.5,FREESHIP,Midlands,Website,False,50.0
-ORD-10064,2025-02-25,C1059,Bamboo Serving Board,Kitchen,1,28.0,10%,Midlands,Etsy,False,28.0
-ORD-10065,2025-10-18,C1050,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,South East,Instagram,False,34.5
-ORD-10066,2025-11-07,C1097,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0
-ORD-10067,2025-02-16,C1106,Woven Storage Basket,Storage,2,31.0,15%,Wales,Website,False,62.0
-ORD-10068,2025-03-17,C1301,Room Spray - Citrus,Fragrance,1,9.99,,Midlands,Website,False,9.99
-ORD-10069,2025-08-04,C1266,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,South East,Website,False,39.0
-ORD-10070,2025-09-03,C1299,Ceramic Mug - Sand,Kitchen,2,12.5,FREESHIP,South East,Instagram,False,25.0
-ORD-10071,2025-09-29,C1116,Reed Diffuser,Fragrance,2,19.99,10%,London,Etsy,False,39.98
-ORD-10072,2025-02-18,C1190,Ceramic Mug - Sage,Kitchen,2,12.5,FREESHIP,South East,Website,False,25.0
-ORD-10073,2025-10-15,C1053,Woven Storage Basket,Storage,1,31.0,,South East,Etsy,False,31.0
-ORD-10074,2025-04-25,C1345,Ceramic Mug - Sage,Kitchen,2,12.5,15%,South East,Etsy,False,25.0
-ORD-10075,2025-12-22,C1046,Soy Candle Gift Set,Candles,1,34.5,,Scotland,Instagram,False,34.5
-ORD-10076,2025-11-24,C1217,Ceramic Mug - Sage,Kitchen,2,12.5,FREESHIP,North West,Website,False,25.0
-ORD-10077,2025-11-04,C1392,Cotton Throw Blanket,Textiles,2,45.0,,North West,Website,False,90.0
-ORD-10078,2025-01-04,Unknown,Ceramic Mug - Sand,Kitchen,1,12.5,,South East,Etsy,False,12.5
-ORD-10079,2025-10-22,C1045,Ceramic Mug - Sand,Kitchen,2,12.5,,South East,Website,False,25.0
-ORD-10080,2025-07-25,C1179,Ceramic Mug - Sand,Kitchen,3,12.5,,Scotland,Website,False,37.5
-ORD-10081,2025-11-07,C1348,Soy Candle Gift Set,Candles,2,34.5,10%,Scotland,Etsy,False,69.0
-ORD-10082,2025-11-16,C1231,Woven Storage Basket,Storage,1,31.0,10%,South East,Website,False,31.0
-ORD-10083,2025-11-27,C1096,Scented Candle - Vanilla,Candles,2,14.99,FREESHIP,South East,Website,False,29.98
-ORD-10084,2025-02-01,C1190,Ceramic Mug - Sage,Kitchen,4,12.5,,London,Etsy,False,50.0
-ORD-10085,2025-12-14,C1170,Woven Storage Basket,Storage,2,31.0,,London,Website,False,62.0
-ORD-10086,2025-06-08,C1378,Macrame Wall Hanging,Decor,2,39.0,FREESHIP,London,Etsy,False,78.0
-ORD-10087,2025-12-10,C1259,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Instagram,False,12.5
-ORD-10088,2025-01-20,C1186,Room Spray - Citrus,Fragrance,1,9.99,10%,South East,Website,False,9.99
-ORD-10089,2025-05-26,C1393,Bamboo Serving Board,Kitchen,1,28.0,10%,London,Instagram,False,28.0
-ORD-10090,2025-03-24,C1139,Room Spray - Citrus,Fragrance,1,9.99,,London,Etsy,False,9.99
-ORD-10091,2025-02-16,C1014,Linen Cushion Cover,Textiles,2,22.0,,Midlands,Instagram,False,44.0
-ORD-10092,2025-06-21,C1131,Soy Candle Gift Set,Candles,1,34.5,,Midlands,Website,False,34.5
-ORD-10093,2025-11-08,C1305,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Website,False,29.98
-ORD-10094,2025-03-15,C1259,Scented Candle - Lavender,Candles,2,14.99,15%,London,Website,False,29.98
-ORD-10095,2025-11-22,C1068,Ceramic Mug - Sage,Kitchen,1,12.5,,London,Etsy,False,12.5
-ORD-10096,2025-03-31,C1102,Woven Storage Basket,Storage,1,31.0,,Scotland,Etsy,False,31.0
-ORD-10097,2025-07-23,C1223,Reed Diffuser,Fragrance,1,19.99,,London,Etsy,False,19.99
-ORD-10098,2025-07-17,C1279,Soy Candle Gift Set,Candles,1,34.5,,South East,Instagram,False,34.5
-ORD-10099,2025-06-01,C1029,Room Spray - Citrus,Fragrance,2,9.99,FREESHIP,London,Website,False,19.98
-ORD-10100,2025-10-05,C1347,Room Spray - Citrus,Fragrance,-2,9.99,,South East,Website,True,-19.98
-ORD-10101,2025-02-09,C1396,Reed Diffuser,Fragrance,1,19.99,,South East,Website,False,19.99
-ORD-10102,2025-05-27,C1341,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0
-ORD-10103,2025-06-03,C1013,Macrame Wall Hanging,Decor,2,39.0,10%,Scotland,Website,False,78.0
-ORD-10104,2025-10-03,C1230,Cotton Throw Blanket,Textiles,1,45.0,,Scotland,Website,False,45.0
-ORD-10105,2025-10-10,C1115,Soy Candle Gift Set,Candles,2,34.5,FREESHIP,London,Website,False,69.0
-ORD-10106,2025-02-10,C1337,Woven Storage Basket,Storage,4,31.0,,London,Etsy,False,124.0
-ORD-10107,2025-10-03,C1148,Scented Candle - Lavender,Candles,3,14.99,15%,Scotland,Website,False,44.97
-ORD-10108,2025-12-17,C1176,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,London,Website,False,28.0
-ORD-10109,2025-10-15,C1167,Scented Candle - Vanilla,Candles,1,14.99,,London,Website,False,14.99
-ORD-10110,2025-03-23,C1025,Reed Diffuser,Fragrance,1,19.99,,Midlands,Website,False,19.99
-ORD-10111,2025-12-11,C1099,Reed Diffuser,Fragrance,1,19.99,15%,London,Website,False,19.99
-ORD-10112,2025-08-19,C1386,Cotton Throw Blanket,Textiles,2,45.0,,North West,Etsy,False,90.0
-ORD-10113,2025-10-23,C1378,Ceramic Mug - Sage,Kitchen,2,12.5,15%,South East,Website,False,25.0
-ORD-10114,2025-09-18,C1322,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,South East,Website,False,39.0
-ORD-10115,2025-10-24,C1358,Macrame Wall Hanging,Decor,1,39.0,15%,South East,Website,False,39.0
-ORD-10116,2025-03-19,C1244,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,Scotland,Instagram,False,22.0
-ORD-10117,2025-09-30,C1115,Ceramic Mug - Sage,Kitchen,2,12.5,,Midlands,Etsy,False,25.0
-ORD-10118,2025-12-16,C1176,Ceramic Mug - Sage,Kitchen,1,12.5,10%,North West,Instagram,False,12.5
-ORD-10119,2025-05-28,C1055,Scented Candle - Vanilla,Candles,1,14.99,,South East,Website,False,14.99
-ORD-10120,2025-12-09,C1208,Linen Cushion Cover,Textiles,2,22.0,,Unknown,Website,False,44.0
-ORD-10121,2025-11-11,C1213,Cotton Throw Blanket,Textiles,2,45.0,,Midlands,Website,False,90.0
-ORD-10122,2025-07-23,C1232,Soy Candle Gift Set,Candles,3,34.5,,Wales,Instagram,False,103.5
-ORD-10123,2025-03-10,C1290,Bamboo Serving Board,Kitchen,1,28.0,,Unknown,Website,False,28.0
-ORD-10124,2025-11-24,C1385,Ceramic Mug - Sand,Kitchen,1,12.5,10%,Unknown,Etsy,False,12.5
-ORD-10125,2025-12-12,C1060,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,North West,Website,False,39.0
-ORD-10126,2025-10-16,C1348,Soy Candle Gift Set,Candles,1,34.5,,Wales,Website,False,34.5
-ORD-10127,2025-08-17,C1226,Ceramic Mug - Sage,Kitchen,1,12.5,15%,North West,Website,False,12.5
-ORD-10128,2025-02-16,C1130,Bamboo Serving Board,Kitchen,2,28.0,10%,South East,Website,False,56.0
-ORD-10129,2025-01-24,C1373,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,Wales,Instagram,False,39.0
-ORD-10130,2025-07-15,C1372,Ceramic Mug - Sand,Kitchen,1,12.5,,Scotland,Etsy,False,12.5
-ORD-10131,2025-06-02,C1392,Macrame Wall Hanging,Decor,1,39.0,15%,North West,Etsy,False,39.0
-ORD-10132,2025-10-15,C1257,Room Spray - Citrus,Fragrance,2,9.99,,Midlands,Website,False,19.98
-ORD-10133,2025-10-22,C1302,Room Spray - Citrus,Fragrance,2,9.99,15%,Midlands,Website,False,19.98
-ORD-10134,2025-08-07,C1242,Scented Candle - Lavender,Candles,4,14.99,15%,Wales,Etsy,False,59.96
-ORD-10135,2025-03-15,C1274,Scented Candle - Lavender,Candles,1,14.99,,Wales,Etsy,False,14.99
-ORD-10136,2025-12-11,C1108,Scented Candle - Lavender,Candles,3,14.99,,London,Etsy,False,44.97
-ORD-10137,2025-09-03,C1184,Macrame Wall Hanging,Decor,2,39.0,,London,Instagram,False,78.0
-ORD-10138,2025-08-29,C1213,Ceramic Mug - Sage,Kitchen,3,12.5,FREESHIP,South East,Website,False,37.5
-ORD-10139,2025-10-19,C1180,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,Wales,Website,False,28.0
-ORD-10140,2025-10-05,Unknown,Scented Candle - Lavender,Candles,1,14.99,FREESHIP,Midlands,Website,False,14.99
-ORD-10141,2025-11-13,C1357,Room Spray - Citrus,Fragrance,3,9.99,15%,North West,Website,False,29.97
-ORD-10142,2025-02-24,C1124,Reed Diffuser,Fragrance,1,19.99,15%,London,Website,False,19.99
-ORD-10143,2025-02-11,C1169,Woven Storage Basket,Storage,2,31.0,FREESHIP,London,Website,False,62.0
-ORD-10144,2025-09-28,C1091,Linen Cushion Cover,Textiles,1,22.0,,Midlands,Instagram,False,22.0
-ORD-10145,2025-12-27,C1071,Ceramic Mug - Sand,Kitchen,3,12.5,FREESHIP,London,Etsy,False,37.5
-ORD-10146,2025-11-08,C1182,Scented Candle - Vanilla,Candles,1,14.99,,Scotland,Instagram,False,14.99
-ORD-10147,2025-10-27,C1162,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Website,False,29.98
-ORD-10148,2025-08-16,C1166,Cotton Throw Blanket,Textiles,1,45.0,15%,London,Website,False,45.0
-ORD-10149,2025-02-13,C1222,Reed Diffuser,Fragrance,3,19.99,,Wales,Etsy,False,59.97
-ORD-10150,2025-07-04,C1225,Linen Cushion Cover,Textiles,2,22.0,,South East,Etsy,False,44.0
-ORD-10151,2025-11-20,C1166,Macrame Wall Hanging,Decor,1,39.0,,South East,Instagram,False,39.0
-ORD-10152,2025-02-28,C1354,Linen Cushion Cover,Textiles,1,22.0,,North West,Etsy,False,22.0
-ORD-10153,2025-12-11,C1259,Woven Storage Basket,Storage,1,31.0,15%,London,Website,False,31.0
-ORD-10154,2025-01-19,C1330,Ceramic Mug - Sage,Kitchen,2,12.5,15%,Midlands,Etsy,False,25.0
-ORD-10155,2025-10-09,C1077,Linen Cushion Cover,Textiles,1,22.0,15%,South East,Etsy,False,22.0
-ORD-10156,2025-08-01,C1356,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,Wales,Website,False,14.99
-ORD-10157,2025-11-21,C1322,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Instagram,False,29.98
-ORD-10158,2025-01-15,C1095,Linen Cushion Cover,Textiles,1,22.0,15%,South East,Website,False,22.0
-ORD-10159,2025-12-10,C1361,Reed Diffuser,Fragrance,4,19.99,FREESHIP,South East,Website,False,79.96
-ORD-10160,2025-10-08,C1355,Cotton Throw Blanket,Textiles,1,45.0,15%,South East,Website,False,45.0
-ORD-10161,2025-03-27,C1258,Soy Candle Gift Set,Candles,1,34.5,15%,Midlands,Etsy,False,34.5
-ORD-10162,2025-12-30,C1395,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,North West,Etsy,False,28.0
-ORD-10163,2025-02-28,C1384,Reed Diffuser,Fragrance,2,19.99,FREESHIP,South East,Etsy,False,39.98
-ORD-10164,2025-05-15,C1219,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,Wales,Etsy,False,14.99
-ORD-10165,2025-04-16,C1048,Room Spray - Citrus,Fragrance,1,9.99,FREESHIP,London,Website,False,9.99
-ORD-10166,2025-01-31,C1323,Woven Storage Basket,Storage,1,31.0,15%,Midlands,Website,False,31.0
-ORD-10167,2025-11-21,C1047,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,Scotland,Etsy,False,14.99
-ORD-10168,2025-07-03,C1349,Reed Diffuser,Fragrance,1,19.99,,Wales,Etsy,False,19.99
-ORD-10169,2025-10-15,C1047,Bamboo Serving Board,Kitchen,1,28.0,,Wales,Website,False,28.0
-ORD-10170,2025-11-21,Unknown,Cotton Throw Blanket,Textiles,2,45.0,FREESHIP,Scotland,Website,False,90.0
-ORD-10171,2025-08-05,C1328,Bamboo Serving Board,Kitchen,1,28.0,,South East,Etsy,False,28.0
-ORD-10172,2025-01-05,C1071,Soy Candle Gift Set,Candles,1,34.5,,Scotland,Etsy,False,34.5
-ORD-10173,2025-08-08,C1105,Soy Candle Gift Set,Candles,1,34.5,,North West,Website,False,34.5
-ORD-10174,2025-06-01,C1198,Linen Cushion Cover,Textiles,1,22.0,,London,Website,False,22.0
-ORD-10175,2025-11-25,C1392,Scented Candle - Vanilla,Candles,1,14.99,15%,London,Website,False,14.99
-ORD-10176,2025-10-02,C1348,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,South East,Website,False,34.5
-ORD-10177,2025-10-14,C1267,Scented Candle - Vanilla,Candles,1,14.99,,North West,Website,False,14.99
-ORD-10178,2025-11-24,C1261,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Etsy,False,29.98
-ORD-10179,2025-10-19,C1018,Woven Storage Basket,Storage,2,31.0,,London,Website,False,62.0
-ORD-10180,2025-10-14,C1035,Macrame Wall Hanging,Decor,1,39.0,10%,Midlands,Etsy,False,39.0
-ORD-10181,2025-06-09,C1375,Reed Diffuser,Fragrance,1,19.99,,South East,Website,False,19.99
-ORD-10182,2025-01-04,C1053,Scented Candle - Lavender,Candles,1,14.99,,South East,Etsy,False,14.99
-ORD-10183,2025-01-31,C1297,Soy Candle Gift Set,Candles,2,34.5,,London,Instagram,False,69.0
-ORD-10184,2025-02-08,C1231,Scented Candle - Lavender,Candles,1,14.99,,Wales,Website,False,14.99
-ORD-10185,2025-10-06,C1155,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,South East,Website,False,28.0
-ORD-10186,2025-12-08,C1127,Ceramic Mug - Sage,Kitchen,1,12.5,15%,London,Website,False,12.5
-ORD-10187,2025-10-05,C1227,Linen Cushion Cover,Textiles,2,22.0,FREESHIP,Unknown,Etsy,False,44.0
-ORD-10188,2025-11-02,C1143,Soy Candle Gift Set,Candles,3,34.5,,South East,Etsy,False,103.5
-ORD-10189,2025-11-16,C1009,Ceramic Mug - Sand,Kitchen,3,12.5,15%,South East,Website,False,37.5
-ORD-10190,2025-10-06,C1183,Ceramic Mug - Sage,Kitchen,3,12.5,15%,South East,Website,False,37.5
-ORD-10191,2025-10-09,C1090,Reed Diffuser,Fragrance,2,19.99,,Midlands,Website,False,39.98
-ORD-10192,2025-07-03,C1158,Scented Candle - Lavender,Candles,2,14.99,15%,South East,Etsy,False,29.98
-ORD-10193,2025-12-16,C1300,Scented Candle - Lavender,Candles,1,14.99,,North West,Etsy,False,14.99
-ORD-10194,2025-09-27,C1249,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,Wales,Website,False,14.99
-ORD-10195,2025-12-22,C1293,Room Spray - Citrus,Fragrance,2,9.99,FREESHIP,London,Etsy,False,19.98
-ORD-10196,2025-11-26,C1362,Room Spray - Citrus,Fragrance,1,9.99,,North West,Instagram,False,9.99
-ORD-10197,2025-01-06,C1252,Linen Cushion Cover,Textiles,2,22.0,10%,South East,Etsy,False,44.0
-ORD-10198,2025-09-03,C1087,Room Spray - Citrus,Fragrance,2,9.99,,Scotland,Website,False,19.98
-ORD-10199,2025-02-17,C1209,Room Spray - Citrus,Fragrance,3,9.99,,Scotland,Website,False,29.97
-ORD-10200,2025-05-16,C1320,Cotton Throw Blanket,Textiles,1,45.0,FREESHIP,London,Etsy,False,45.0
-ORD-10201,2025-03-29,C1189,Scented Candle - Vanilla,Candles,1,14.99,10%,London,Etsy,False,14.99
-ORD-10202,2025-11-19,C1198,Scented Candle - Lavender,Candles,1,14.99,,Scotland,Website,False,14.99
-ORD-10203,2025-09-01,C1075,Linen Cushion Cover,Textiles,1,22.0,15%,London,Instagram,False,22.0
-ORD-10204,2025-03-27,C1034,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,South East,Instagram,False,22.0
-ORD-10205,2025-05-22,C1146,Scented Candle - Lavender,Candles,2,14.99,,North West,Website,False,29.98
-ORD-10206,2025-05-16,C1353,Bamboo Serving Board,Kitchen,1,28.0,,South East,Website,False,28.0
-ORD-10207,2025-11-10,C1213,Cotton Throw Blanket,Textiles,2,45.0,FREESHIP,Midlands,Etsy,False,90.0
-ORD-10208,2025-07-28,C1014,Reed Diffuser,Fragrance,3,19.99,15%,Midlands,Website,False,59.97
-ORD-10209,2025-11-02,C1090,Ceramic Mug - Sage,Kitchen,2,12.5,10%,London,Etsy,False,25.0
-ORD-10210,2025-11-24,C1333,Macrame Wall Hanging,Decor,1,39.0,,London,Website,False,39.0
-ORD-10211,2025-10-21,C1178,Soy Candle Gift Set,Candles,2,34.5,10%,London,Website,False,69.0
-ORD-10212,2025-09-24,C1055,Ceramic Mug - Sand,Kitchen,1,12.5,FREESHIP,London,Instagram,False,12.5
-ORD-10213,2025-06-16,C1206,Cotton Throw Blanket,Textiles,2,45.0,15%,Wales,Etsy,False,90.0
-ORD-10214,2025-12-02,C1351,Cotton Throw Blanket,Textiles,1,45.0,,South East,Website,False,45.0
-ORD-10215,2025-12-10,C1348,Cotton Throw Blanket,Textiles,2,45.0,,Midlands,Instagram,False,90.0
-ORD-10216,2025-04-25,C1036,Cotton Throw Blanket,Textiles,1,45.0,15%,Midlands,Website,False,45.0
-ORD-10217,2025-12-15,C1161,Cotton Throw Blanket,Textiles,1,45.0,,Midlands,Website,False,45.0
-ORD-10218,2025-06-20,C1066,Soy Candle Gift Set,Candles,1,34.5,,London,Website,False,34.5
-ORD-10219,2025-09-02,C1127,Scented Candle - Lavender,Candles,-1,14.99,FREESHIP,Unknown,Instagram,True,-14.99
-ORD-10220,2025-02-22,C1068,Room Spray - Citrus,Fragrance,1,9.99,FREESHIP,London,Website,False,9.99
-ORD-10221,2025-11-01,C1319,Linen Cushion Cover,Textiles,1,22.0,15%,Wales,Website,False,22.0
-ORD-10222,2025-12-01,C1338,Scented Candle - Lavender,Candles,-2,14.99,10%,South East,Website,True,-29.98
-ORD-10223,2025-10-17,C1360,Macrame Wall Hanging,Decor,2,39.0,,London,Etsy,False,78.0
-ORD-10224,2025-04-17,C1038,Bamboo Serving Board,Kitchen,1,28.0,15%,London,Etsy,False,28.0
-ORD-10225,2025-04-29,C1048,Cotton Throw Blanket,Textiles,1,45.0,,London,Etsy,False,45.0
-ORD-10226,2025-03-12,C1233,Soy Candle Gift Set,Candles,1,34.5,10%,Midlands,Instagram,False,34.5
-ORD-10227,2025-08-04,C1224,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,Scotland,Website,False,34.5
-ORD-10228,2025-01-15,C1268,Macrame Wall Hanging,Decor,-4,39.0,FREESHIP,London,Instagram,True,-156.0
-ORD-10229,2025-12-09,Unknown,Reed Diffuser,Fragrance,1,19.99,15%,Scotland,Website,False,19.99
-ORD-10230,2025-08-29,C1235,Soy Candle Gift Set,Candles,1,34.5,,South East,Website,False,34.5
-ORD-10231,2025-09-13,C1326,Scented Candle - Vanilla,Candles,4,14.99,15%,Scotland,Website,False,59.96
-ORD-10232,2025-12-10,C1231,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,London,Website,False,12.5
-ORD-10233,2025-06-24,C1054,Woven Storage Basket,Storage,4,31.0,10%,London,Website,False,124.0
-ORD-10234,2025-10-23,C1068,Ceramic Mug - Sage,Kitchen,1,12.5,15%,South East,Instagram,False,12.5
-ORD-10235,2025-10-11,C1310,Room Spray - Citrus,Fragrance,1,9.99,15%,South East,Instagram,False,9.99
-ORD-10236,2025-11-08,C1359,Linen Cushion Cover,Textiles,1,22.0,,Wales,Instagram,False,22.0
-ORD-10237,2025-10-11,C1355,Linen Cushion Cover,Textiles,1,22.0,15%,Scotland,Etsy,False,22.0
-ORD-10238,2025-10-15,C1012,Room Spray - Citrus,Fragrance,-3,9.99,,Scotland,Etsy,True,-29.97
-ORD-10239,2025-05-17,C1345,Soy Candle Gift Set,Candles,4,34.5,15%,Scotland,Website,False,138.0
-ORD-10240,2025-10-15,C1282,Reed Diffuser,Fragrance,2,19.99,,Midlands,Website,False,39.98
-ORD-10241,2025-08-15,C1349,Woven Storage Basket,Storage,2,31.0,,North West,Etsy,False,62.0
-ORD-10242,2025-03-03,C1305,Ceramic Mug - Sand,Kitchen,-1,12.5,,London,Website,True,-12.5
-ORD-10243,2025-12-05,C1274,Room Spray - Citrus,Fragrance,1,9.99,15%,London,Etsy,False,9.99
-ORD-10244,2025-12-06,C1228,Ceramic Mug - Sage,Kitchen,1,12.5,,Wales,Etsy,False,12.5
-ORD-10245,2025-05-05,C1263,Woven Storage Basket,Storage,3,31.0,,Unknown,Etsy,False,93.0
-ORD-10246,2025-12-03,C1053,Scented Candle - Vanilla,Candles,1,14.99,10%,Wales,Website,False,14.99
-ORD-10247,2025-08-11,C1132,Scented Candle - Vanilla,Candles,2,14.99,,London,Website,False,29.98
-ORD-10248,2025-12-04,C1351,Reed Diffuser,Fragrance,1,19.99,,Scotland,Website,False,19.99
-ORD-10249,2025-08-13,C1346,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0
-ORD-10250,2025-11-28,C1379,Scented Candle - Lavender,Candles,1,14.99,FREESHIP,North West,Website,False,14.99
-ORD-10251,2025-11-27,C1236,Soy Candle Gift Set,Candles,1,34.5,15%,London,Etsy,False,34.5
-ORD-10252,2025-12-19,C1337,Bamboo Serving Board,Kitchen,4,28.0,15%,South East,Etsy,False,112.0
-ORD-10253,2025-07-06,C1236,Ceramic Mug - Sand,Kitchen,1,12.5,10%,South East,Etsy,False,12.5
-ORD-10254,2025-12-03,C1015,Cotton Throw Blanket,Textiles,3,45.0,FREESHIP,London,Website,False,135.0
-ORD-10255,2025-04-19,C1068,Reed Diffuser,Fragrance,1,19.99,,Midlands,Website,False,19.99
-ORD-10256,2025-10-28,C1247,Room Spray - Citrus,Fragrance,2,9.99,FREESHIP,Scotland,Website,False,19.98
-ORD-10257,2025-11-08,C1360,Scented Candle - Lavender,Candles,2,14.99,,South East,Etsy,False,29.98
-ORD-10258,2025-05-15,C1207,Room Spray - Citrus,Fragrance,1,9.99,15%,North West,Website,False,9.99
-ORD-10259,2025-09-04,C1338,Scented Candle - Lavender,Candles,1,14.99,,London,Website,False,14.99
-ORD-10260,2025-09-04,C1293,Bamboo Serving Board,Kitchen,1,28.0,,London,Etsy,False,28.0
-ORD-10261,2025-09-22,C1246,Room Spray - Citrus,Fragrance,4,9.99,10%,North West,Instagram,False,39.96
-ORD-10262,2025-10-26,Unknown,Soy Candle Gift Set,Candles,2,34.5,,South East,Website,False,69.0
-ORD-10263,2025-12-17,C1066,Soy Candle Gift Set,Candles,2,34.5,FREESHIP,London,Instagram,False,69.0
-ORD-10264,2025-12-14,C1389,Reed Diffuser,Fragrance,1,19.99,FREESHIP,Midlands,Etsy,False,19.99
-ORD-10265,2025-05-11,Unknown,Linen Cushion Cover,Textiles,3,22.0,,London,Etsy,False,66.0
-ORD-10266,2025-06-11,C1211,Scented Candle - Vanilla,Candles,1,14.99,,North West,Website,False,14.99
-ORD-10267,2025-10-14,C1082,Cotton Throw Blanket,Textiles,4,45.0,FREESHIP,North West,Etsy,False,180.0
-ORD-10268,2025-10-09,C1189,Woven Storage Basket,Storage,2,31.0,,London,Instagram,False,62.0
-ORD-10269,2025-07-25,C1146,Reed Diffuser,Fragrance,1,19.99,15%,Unknown,Website,False,19.99
-ORD-10270,2025-10-22,Unknown,Scented Candle - Lavender,Candles,1,14.99,,North West,Instagram,False,14.99
-ORD-10271,2025-10-09,C1259,Reed Diffuser,Fragrance,3,19.99,10%,South East,Instagram,False,59.97
-ORD-10272,2025-03-01,C1348,Cotton Throw Blanket,Textiles,3,45.0,10%,Midlands,Etsy,False,135.0
-ORD-10273,2025-03-01,C1127,Ceramic Mug - Sand,Kitchen,-2,12.5,,Wales,Etsy,True,-25.0
-ORD-10274,2025-10-16,C1123,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,Midlands,Website,False,12.5
-ORD-10275,2025-05-08,C1246,Ceramic Mug - Sage,Kitchen,1,12.5,,London,Instagram,False,12.5
-ORD-10276,2025-10-22,C1177,Bamboo Serving Board,Kitchen,1,28.0,15%,Scotland,Website,False,28.0
-ORD-10277,2025-03-03,C1121,Bamboo Serving Board,Kitchen,1,28.0,,London,Etsy,False,28.0
-ORD-10278,2025-04-05,C1369,Linen Cushion Cover,Textiles,1,22.0,,Scotland,Website,False,22.0
-ORD-10279,2025-12-05,C1128,Bamboo Serving Board,Kitchen,2,28.0,,London,Website,False,56.0
-ORD-10280,2025-10-27,C1210,Cotton Throw Blanket,Textiles,1,45.0,,North West,Website,False,45.0
-ORD-10281,2025-04-12,C1314,Woven Storage Basket,Storage,2,31.0,10%,London,Etsy,False,62.0
-ORD-10282,2025-03-27,C1309,Ceramic Mug - Sage,Kitchen,1,12.5,,North West,Website,False,12.5
-ORD-10283,2025-07-05,C1107,Reed Diffuser,Fragrance,4,19.99,,South East,Website,False,79.96
-ORD-10284,2025-08-31,C1226,Scented Candle - Lavender,Candles,2,14.99,,North West,Instagram,False,29.98
-ORD-10285,2025-11-28,C1323,Ceramic Mug - Sage,Kitchen,3,12.5,10%,South East,Instagram,False,37.5
-ORD-10286,2025-11-24,C1388,Cotton Throw Blanket,Textiles,-3,45.0,15%,South East,Website,True,-135.0
-ORD-10287,2025-01-05,C1223,Bamboo Serving Board,Kitchen,3,28.0,15%,South East,Website,False,84.0
-ORD-10288,2025-07-19,C1272,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,South East,Website,False,22.0
-ORD-10289,2025-10-21,C1137,Bamboo Serving Board,Kitchen,2,28.0,,Unknown,Etsy,False,56.0
-ORD-10290,2025-11-07,C1136,Ceramic Mug - Sage,Kitchen,1,12.5,,Scotland,Website,False,12.5
-ORD-10291,2025-04-09,C1101,Cotton Throw Blanket,Textiles,2,45.0,,Midlands,Website,False,90.0
-ORD-10292,2025-04-17,C1101,Woven Storage Basket,Storage,4,31.0,,Wales,Website,False,124.0
-ORD-10293,2025-11-11,C1394,Scented Candle - Lavender,Candles,1,14.99,,London,Website,False,14.99
-ORD-10294,2025-11-13,C1387,Woven Storage Basket,Storage,1,31.0,FREESHIP,South East,Website,False,31.0
-ORD-10295,2025-01-11,C1178,Ceramic Mug - Sage,Kitchen,2,12.5,15%,London,Website,False,25.0
-ORD-10296,2025-11-03,C1094,Reed Diffuser,Fragrance,1,19.99,FREESHIP,North West,Website,False,19.99
-ORD-10297,2025-12-03,C1049,Woven Storage Basket,Storage,4,31.0,,Midlands,Website,False,124.0
-ORD-10298,2025-10-07,C1113,Scented Candle - Vanilla,Candles,1,14.99,,London,Etsy,False,14.99
-ORD-10299,2025-04-17,C1136,Scented Candle - Vanilla,Candles,1,14.99,15%,North West,Website,False,14.99
-ORD-10300,2025-02-09,C1054,Reed Diffuser,Fragrance,1,19.99,FREESHIP,Scotland,Website,False,19.99
-ORD-10301,2025-12-26,C1281,Scented Candle - Vanilla,Candles,1,14.99,,London,Website,False,14.99
-ORD-10302,2025-11-21,C1000,Macrame Wall Hanging,Decor,1,39.0,10%,London,Website,False,39.0
-ORD-10303,2025-11-01,C1292,Cotton Throw Blanket,Textiles,4,45.0,15%,London,Website,False,180.0
-ORD-10304,2025-03-12,C1249,Room Spray - Citrus,Fragrance,1,9.99,,London,Website,False,9.99
-ORD-10305,2025-02-18,C1382,Cotton Throw Blanket,Textiles,1,45.0,,Midlands,Website,False,45.0
-ORD-10306,2025-11-20,C1385,Cotton Throw Blanket,Textiles,1,45.0,10%,South East,Etsy,False,45.0
-ORD-10307,2025-05-29,C1246,Soy Candle Gift Set,Candles,1,34.5,,London,Etsy,False,34.5
-ORD-10308,2025-04-11,C1178,Macrame Wall Hanging,Decor,1,39.0,,London,Website,False,39.0
-ORD-10309,2025-11-20,C1124,Bamboo Serving Board,Kitchen,2,28.0,,South East,Instagram,False,56.0
-ORD-10310,2025-12-26,C1373,Scented Candle - Vanilla,Candles,1,14.99,15%,South East,Website,False,14.99
-ORD-10311,2025-07-12,C1338,Woven Storage Basket,Storage,-1,31.0,10%,London,Website,True,-31.0
-ORD-10312,2025-12-13,C1287,Linen Cushion Cover,Textiles,4,22.0,10%,South East,Etsy,False,88.0
-ORD-10313,2025-09-29,C1198,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0
-ORD-10314,2025-10-12,C1213,Linen Cushion Cover,Textiles,1,22.0,,Midlands,Etsy,False,22.0
-ORD-10315,2025-11-06,C1335,Reed Diffuser,Fragrance,1,19.99,,North West,Etsy,False,19.99
-ORD-10316,2025-10-13,C1381,Macrame Wall Hanging,Decor,1,39.0,10%,South East,Instagram,False,39.0
-ORD-10317,2025-10-04,C1352,Soy Candle Gift Set,Candles,-1,34.5,,Scotland,Etsy,True,-34.5
-ORD-10318,2025-08-29,C1113,Ceramic Mug - Sage,Kitchen,1,12.5,10%,South East,Website,False,12.5
-ORD-10319,2025-11-28,C1313,Room Spray - Citrus,Fragrance,1,9.99,10%,South East,Website,False,9.99
-ORD-10320,2025-11-25,C1198,Scented Candle - Lavender,Candles,1,14.99,15%,South East,Etsy,False,14.99
-ORD-10321,2025-05-30,C1231,Cotton Throw Blanket,Textiles,2,45.0,FREESHIP,London,Website,False,90.0
-ORD-10322,2025-10-27,C1128,Macrame Wall Hanging,Decor,1,39.0,,South East,Website,False,39.0
-ORD-10323,2025-03-25,C1193,Scented Candle - Vanilla,Candles,1,14.99,,Scotland,Etsy,False,14.99
-ORD-10324,2025-06-21,C1092,Woven Storage Basket,Storage,3,31.0,FREESHIP,London,Website,False,93.0
-ORD-10325,2025-11-15,Unknown,Scented Candle - Lavender,Candles,1,14.99,15%,Midlands,Website,False,14.99
-ORD-10326,2025-11-18,C1025,Linen Cushion Cover,Textiles,1,22.0,,London,Etsy,False,22.0
-ORD-10327,2025-05-26,C1188,Macrame Wall Hanging,Decor,2,39.0,,North West,Etsy,False,78.0
-ORD-10328,2025-11-05,C1270,Scented Candle - Vanilla,Candles,2,14.99,FREESHIP,London,Website,False,29.98
-ORD-10329,2025-12-28,C1252,Room Spray - Citrus,Fragrance,2,9.99,10%,London,Etsy,False,19.98
-ORD-10330,2025-05-29,C1286,Scented Candle - Lavender,Candles,1,14.99,,South East,Etsy,False,14.99
-ORD-10331,2025-12-20,C1099,Scented Candle - Vanilla,Candles,1,14.99,,South East,Website,False,14.99
-ORD-10332,2025-08-31,C1266,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0
-ORD-10333,2025-12-22,C1310,Ceramic Mug - Sage,Kitchen,2,12.5,15%,Midlands,Website,False,25.0
-ORD-10334,2025-06-07,C1057,Ceramic Mug - Sage,Kitchen,2,12.5,,London,Website,False,25.0
-ORD-10335,2025-02-17,C1264,Scented Candle - Lavender,Candles,2,14.99,,Midlands,Website,False,29.98
-ORD-10336,2025-08-24,C1159,Reed Diffuser,Fragrance,1,19.99,FREESHIP,South East,Website,False,19.99
-ORD-10337,2025-04-18,C1052,Linen Cushion Cover,Textiles,1,22.0,15%,Unknown,Etsy,False,22.0
-ORD-10338,2025-03-14,C1196,Cotton Throw Blanket,Textiles,1,45.0,,London,Website,False,45.0
-ORD-10339,2025-11-02,C1290,Woven Storage Basket,Storage,2,31.0,10%,Scotland,Etsy,False,62.0
-ORD-10340,2025-11-22,C1340,Woven Storage Basket,Storage,2,31.0,FREESHIP,South East,Website,False,62.0
-ORD-10341,2025-11-04,C1166,Ceramic Mug - Sage,Kitchen,1,12.5,,Midlands,Website,False,12.5
-ORD-10342,2025-08-25,C1290,Ceramic Mug - Sand,Kitchen,1,12.5,10%,London,Website,False,12.5
-ORD-10343,2025-12-06,C1035,Macrame Wall Hanging,Decor,3,39.0,10%,North West,Website,False,117.0
-ORD-10344,2025-07-14,C1231,Woven Storage Basket,Storage,2,31.0,,Unknown,Etsy,False,62.0
-ORD-10345,2025-11-10,C1261,Room Spray - Citrus,Fragrance,2,9.99,15%,Scotland,Instagram,False,19.98
-ORD-10346,2025-07-09,C1364,Scented Candle - Lavender,Candles,1,14.99,,North West,Instagram,False,14.99
-ORD-10347,2025-10-07,C1073,Reed Diffuser,Fragrance,1,19.99,,Wales,Etsy,False,19.99
-ORD-10348,2025-12-26,C1181,Ceramic Mug - Sand,Kitchen,3,12.5,10%,Midlands,Etsy,False,37.5
-ORD-10349,2025-09-13,C1353,Linen Cushion Cover,Textiles,2,22.0,10%,London,Instagram,False,44.0
-ORD-10350,2025-05-24,C1159,Scented Candle - Vanilla,Candles,1,14.99,15%,North West,Website,False,14.99
-ORD-10351,2025-01-06,C1155,Reed Diffuser,Fragrance,3,19.99,FREESHIP,North West,Website,False,59.97
-ORD-10352,2025-08-31,C1315,Room Spray - Citrus,Fragrance,1,9.99,,Wales,Etsy,False,9.99
-ORD-10353,2025-02-27,C1043,Room Spray - Citrus,Fragrance,2,9.99,,North West,Website,False,19.98
-ORD-10354,2025-09-11,C1026,Ceramic Mug - Sand,Kitchen,2,12.5,,London,Website,False,25.0
-ORD-10355,2025-12-23,C1021,Ceramic Mug - Sand,Kitchen,1,12.5,FREESHIP,London,Instagram,False,12.5
-ORD-10356,2025-08-10,C1344,Woven Storage Basket,Storage,3,31.0,FREESHIP,South East,Website,False,93.0
-ORD-10357,2025-12-20,C1098,Ceramic Mug - Sage,Kitchen,1,12.5,,Scotland,Etsy,False,12.5
-ORD-10358,2025-11-01,C1150,Linen Cushion Cover,Textiles,4,22.0,,North West,Etsy,False,88.0
-ORD-10359,2025-05-22,C1132,Macrame Wall Hanging,Decor,3,39.0,,Scotland,Website,False,117.0
-ORD-10360,2025-09-09,C1052,Linen Cushion Cover,Textiles,2,22.0,,London,Website,False,44.0
-ORD-10361,2025-11-05,C1244,Woven Storage Basket,Storage,2,31.0,10%,Wales,Etsy,False,62.0
-ORD-10362,2025-02-05,C1323,Scented Candle - Lavender,Candles,1,14.99,,Scotland,Etsy,False,14.99
-ORD-10363,2025-11-25,C1249,Cotton Throw Blanket,Textiles,2,45.0,,London,Website,False,90.0
-ORD-10364,2025-10-24,C1018,Room Spray - Citrus,Fragrance,1,9.99,,South East,Etsy,False,9.99
-ORD-10365,2025-12-22,C1009,Reed Diffuser,Fragrance,1,19.99,FREESHIP,Scotland,Instagram,False,19.99
-ORD-10366,2025-12-26,C1254,Scented Candle - Lavender,Candles,1,14.99,,London,Website,False,14.99
-ORD-10367,2025-04-14,C1088,Macrame Wall Hanging,Decor,2,39.0,15%,South East,Instagram,False,78.0
-ORD-10368,2025-11-18,Unknown,Soy Candle Gift Set,Candles,-1,34.5,10%,Wales,Website,True,-34.5
-ORD-10369,2025-11-30,C1312,Cotton Throw Blanket,Textiles,1,45.0,,Midlands,Etsy,False,45.0
-ORD-10370,2025-11-10,C1259,Woven Storage Basket,Storage,2,31.0,15%,South East,Website,False,62.0
-ORD-10371,2025-10-26,C1315,Soy Candle Gift Set,Candles,2,34.5,,Wales,Website,False,69.0
-ORD-10372,2025-01-27,C1346,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,London,Website,False,34.5
-ORD-10373,2025-12-14,C1234,Linen Cushion Cover,Textiles,1,22.0,,London,Website,False,22.0
-ORD-10374,2025-04-14,C1326,Scented Candle - Lavender,Candles,2,14.99,,London,Website,False,29.98
-ORD-10375,2025-10-11,C1126,Scented Candle - Vanilla,Candles,1,14.99,,Unknown,Instagram,False,14.99
-ORD-10376,2025-10-30,C1050,Room Spray - Citrus,Fragrance,3,9.99,FREESHIP,South East,Website,False,29.97
-ORD-10377,2025-01-07,C1382,Ceramic Mug - Sand,Kitchen,3,12.5,15%,London,Website,False,37.5
-ORD-10378,2025-03-12,C1016,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Midlands,Etsy,False,12.5
-ORD-10379,2025-11-10,C1196,Linen Cushion Cover,Textiles,2,22.0,,London,Instagram,False,44.0
-ORD-10380,2025-03-31,C1107,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,Scotland,Website,False,39.0
-ORD-10381,2025-05-17,C1231,Ceramic Mug - Sand,Kitchen,1,12.5,,London,Website,False,12.5
-ORD-10382,2025-11-03,C1321,Scented Candle - Vanilla,Candles,1,14.99,15%,London,Instagram,False,14.99
-ORD-10383,2025-03-09,C1167,Ceramic Mug - Sand,Kitchen,1,12.5,FREESHIP,North West,Website,False,12.5
-ORD-10384,2025-10-08,C1180,Cotton Throw Blanket,Textiles,1,45.0,,Midlands,Website,False,45.0
-ORD-10385,2025-03-24,C1225,Cotton Throw Blanket,Textiles,1,45.0,,London,Etsy,False,45.0
-ORD-10386,2025-01-18,Unknown,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Instagram,False,12.5
-ORD-10387,2025-06-19,C1352,Cotton Throw Blanket,Textiles,1,45.0,,London,Instagram,False,45.0
-ORD-10388,2025-12-14,C1100,Cotton Throw Blanket,Textiles,1,45.0,,North West,Website,False,45.0
-ORD-10389,2025-12-10,C1189,Reed Diffuser,Fragrance,1,19.99,10%,South East,Etsy,False,19.99
-ORD-10390,2025-06-07,C1306,Reed Diffuser,Fragrance,1,19.99,15%,Scotland,Website,False,19.99
-ORD-10391,2025-09-26,C1102,Scented Candle - Vanilla,Candles,3,14.99,,North West,Website,False,44.97
-ORD-10392,2025-01-22,C1241,Cotton Throw Blanket,Textiles,2,45.0,FREESHIP,South East,Etsy,False,90.0
-ORD-10393,2025-04-02,C1132,Macrame Wall Hanging,Decor,2,39.0,10%,London,Etsy,False,78.0
-ORD-10394,2025-03-03,C1184,Macrame Wall Hanging,Decor,1,39.0,,Midlands,Website,False,39.0
-ORD-10395,2025-05-29,C1154,Woven Storage Basket,Storage,3,31.0,FREESHIP,South East,Etsy,False,93.0
-ORD-10396,2025-10-01,C1096,Soy Candle Gift Set,Candles,1,34.5,,South East,Website,False,34.5
-ORD-10397,2025-09-27,C1353,Macrame Wall Hanging,Decor,1,39.0,,Scotland,Website,False,39.0
-ORD-10398,2025-11-02,C1066,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Etsy,False,12.5
-ORD-10399,2025-11-25,C1386,Ceramic Mug - Sand,Kitchen,1,12.5,,London,Etsy,False,12.5
-ORD-10400,2025-10-28,C1313,Soy Candle Gift Set,Candles,2,34.5,FREESHIP,London,Website,False,69.0
-ORD-10401,2025-10-24,C1362,Reed Diffuser,Fragrance,1,19.99,15%,London,Website,False,19.99
-ORD-10402,2025-12-11,C1069,Soy Candle Gift Set,Candles,2,34.5,15%,Wales,Website,False,69.0
-ORD-10403,2025-11-04,C1035,Ceramic Mug - Sand,Kitchen,1,12.5,,North West,Website,False,12.5
-ORD-10404,2025-12-16,C1033,Woven Storage Basket,Storage,1,31.0,,South East,Etsy,False,31.0
-ORD-10405,2025-11-24,C1207,Bamboo Serving Board,Kitchen,1,28.0,15%,Scotland,Etsy,False,28.0
-ORD-10406,2025-11-16,C1347,Bamboo Serving Board,Kitchen,1,28.0,15%,Unknown,Website,False,28.0
-ORD-10407,2025-02-09,C1391,Reed Diffuser,Fragrance,2,19.99,,Midlands,Website,False,39.98
-ORD-10408,2025-07-16,C1366,Ceramic Mug - Sand,Kitchen,1,12.5,,London,Website,False,12.5
-ORD-10409,2025-09-09,C1392,Woven Storage Basket,Storage,1,31.0,,South East,Etsy,False,31.0
-ORD-10410,2025-11-12,C1126,Macrame Wall Hanging,Decor,1,39.0,,Scotland,Etsy,False,39.0
-ORD-10411,2025-11-04,C1301,Ceramic Mug - Sage,Kitchen,-1,12.5,10%,North West,Website,True,-12.5
-ORD-10412,2025-06-15,C1325,Bamboo Serving Board,Kitchen,1,28.0,10%,Scotland,Website,False,28.0
-ORD-10413,2025-11-02,C1290,Cotton Throw Blanket,Textiles,4,45.0,,South East,Website,False,180.0
-ORD-10414,2025-02-09,C1009,Cotton Throw Blanket,Textiles,1,45.0,,London,Etsy,False,45.0
-ORD-10415,2025-12-15,C1236,Cotton Throw Blanket,Textiles,3,45.0,,North West,Etsy,False,135.0
-ORD-10416,2025-06-03,C1120,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Midlands,Website,False,12.5
-ORD-10417,2025-05-06,C1337,Cotton Throw Blanket,Textiles,1,45.0,,Unknown,Website,False,45.0
-ORD-10418,2025-09-06,C1203,Scented Candle - Lavender,Candles,3,14.99,,London,Etsy,False,44.97
-ORD-10419,2025-02-27,C1168,Reed Diffuser,Fragrance,3,19.99,,North West,Etsy,False,59.97
-ORD-10420,2025-05-01,C1162,Linen Cushion Cover,Textiles,1,22.0,,London,Instagram,False,22.0
-ORD-10421,2025-05-23,C1353,Soy Candle Gift Set,Candles,1,34.5,,Scotland,Etsy,False,34.5
-ORD-10422,2025-07-16,C1154,Macrame Wall Hanging,Decor,1,39.0,,Midlands,Website,False,39.0
-ORD-10423,2025-04-18,C1377,Soy Candle Gift Set,Candles,3,34.5,10%,North West,Instagram,False,103.5
-ORD-10424,2025-02-21,C1094,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,Unknown,Website,False,39.0
-ORD-10425,2025-11-11,C1231,Room Spray - Citrus,Fragrance,1,9.99,,London,Website,False,9.99
-ORD-10426,2025-12-18,C1285,Ceramic Mug - Sage,Kitchen,2,12.5,,London,Website,False,25.0
-ORD-10427,2025-12-28,C1344,Soy Candle Gift Set,Candles,1,34.5,10%,Unknown,Etsy,False,34.5
-ORD-10428,2025-05-17,C1014,Bamboo Serving Board,Kitchen,1,28.0,,South East,Website,False,28.0
-ORD-10429,2025-05-08,C1376,Woven Storage Basket,Storage,2,31.0,10%,London,Website,False,62.0
-ORD-10430,2025-01-27,C1317,Linen Cushion Cover,Textiles,-1,22.0,15%,South East,Etsy,True,-22.0
-ORD-10431,2025-03-09,C1072,Reed Diffuser,Fragrance,1,19.99,10%,London,Website,False,19.99
-ORD-10432,2025-09-13,C1161,Cotton Throw Blanket,Textiles,2,45.0,,Wales,Website,False,90.0
-ORD-10433,2025-10-12,C1253,Woven Storage Basket,Storage,2,31.0,,South East,Website,False,62.0
-ORD-10434,2025-09-06,C1339,Scented Candle - Vanilla,Candles,2,14.99,15%,Midlands,Website,False,29.98
-ORD-10435,2025-09-27,C1302,Soy Candle Gift Set,Candles,1,34.5,,London,Etsy,False,34.5
-ORD-10436,2025-12-22,C1375,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,Wales,Etsy,False,28.0
-ORD-10437,2025-01-25,C1045,Cotton Throw Blanket,Textiles,1,45.0,10%,London,Website,False,45.0
-ORD-10438,2025-07-26,C1188,Woven Storage Basket,Storage,1,31.0,,London,Etsy,False,31.0
-ORD-10439,2025-09-01,C1346,Room Spray - Citrus,Fragrance,1,9.99,10%,Scotland,Etsy,False,9.99
-ORD-10440,2025-09-11,C1267,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0
-ORD-10441,2025-01-24,C1338,Reed Diffuser,Fragrance,-1,19.99,FREESHIP,London,Etsy,True,-19.99
-ORD-10442,2025-12-10,C1040,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Etsy,False,12.5
-ORD-10443,2025-02-24,C1155,Scented Candle - Lavender,Candles,1,14.99,10%,London,Website,False,14.99
-ORD-10444,2025-12-11,C1074,Woven Storage Basket,Storage,1,31.0,FREESHIP,South East,Website,False,31.0
-ORD-10445,2025-11-25,C1299,Bamboo Serving Board,Kitchen,-1,28.0,10%,South East,Website,True,-28.0
-ORD-10446,2025-10-04,C1248,Woven Storage Basket,Storage,-2,31.0,10%,South East,Website,True,-62.0
-ORD-10447,2025-10-17,C1229,Scented Candle - Lavender,Candles,1,14.99,,South East,Website,False,14.99
-ORD-10448,2025-04-09,C1370,Bamboo Serving Board,Kitchen,1,28.0,,London,Instagram,False,28.0
-ORD-10449,2025-12-11,C1080,Ceramic Mug - Sage,Kitchen,2,12.5,,Midlands,Etsy,False,25.0
-ORD-10450,2025-09-10,C1316,Linen Cushion Cover,Textiles,1,22.0,,Wales,Website,False,22.0
-ORD-10451,2025-06-24,C1234,Scented Candle - Lavender,Candles,2,14.99,10%,North West,Instagram,False,29.98
-ORD-10452,2025-11-09,C1390,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Website,False,29.98
-ORD-10453,2025-11-28,C1043,Soy Candle Gift Set,Candles,1,34.5,,London,Instagram,False,34.5
-ORD-10454,2025-11-19,C1349,Soy Candle Gift Set,Candles,2,34.5,15%,North West,Etsy,False,69.0
-ORD-10455,2025-01-06,C1029,Reed Diffuser,Fragrance,3,19.99,15%,London,Website,False,59.97
-ORD-10456,2025-09-24,C1312,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Unknown,Etsy,False,12.5
-ORD-10457,2025-04-16,C1275,Room Spray - Citrus,Fragrance,2,9.99,,North West,Etsy,False,19.98
-ORD-10458,2025-03-06,C1123,Reed Diffuser,Fragrance,1,19.99,,London,Etsy,False,19.99
-ORD-10459,2025-10-27,C1120,Ceramic Mug - Sage,Kitchen,-1,12.5,,South East,Website,True,-12.5
-ORD-10460,2025-11-18,C1264,Room Spray - Citrus,Fragrance,1,9.99,,London,Etsy,False,9.99
-ORD-10461,2025-11-27,C1398,Ceramic Mug - Sand,Kitchen,1,12.5,15%,London,Instagram,False,12.5
-ORD-10462,2025-08-05,C1270,Macrame Wall Hanging,Decor,3,39.0,15%,South East,Instagram,False,117.0
-ORD-10463,2025-03-22,C1155,Ceramic Mug - Sage,Kitchen,3,12.5,,London,Instagram,False,37.5
-ORD-10464,2025-10-29,C1231,Cotton Throw Blanket,Textiles,3,45.0,15%,London,Etsy,False,135.0
-ORD-10465,2025-10-17,C1202,Woven Storage Basket,Storage,1,31.0,,South East,Website,False,31.0
-ORD-10466,2025-08-15,C1316,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0
-ORD-10467,2025-11-17,C1205,Scented Candle - Lavender,Candles,1,14.99,,Wales,Website,False,14.99
-ORD-10468,2025-06-24,C1078,Ceramic Mug - Sand,Kitchen,1,12.5,,North West,Website,False,12.5
-ORD-10469,2025-11-11,C1103,Soy Candle Gift Set,Candles,1,34.5,,London,Website,False,34.5
-ORD-10470,2025-09-18,C1283,Ceramic Mug - Sand,Kitchen,3,12.5,,London,Website,False,37.5
-ORD-10471,2025-10-12,C1275,Soy Candle Gift Set,Candles,1,34.5,,South East,Website,False,34.5
-ORD-10472,2025-11-27,C1323,Room Spray - Citrus,Fragrance,1,9.99,,Wales,Website,False,9.99
-ORD-10473,2025-03-24,C1162,Room Spray - Citrus,Fragrance,1,9.99,15%,London,Etsy,False,9.99
-ORD-10474,2025-12-29,Unknown,Linen Cushion Cover,Textiles,2,22.0,15%,South East,Website,False,44.0
-ORD-10475,2025-10-12,C1344,Macrame Wall Hanging,Decor,1,39.0,10%,South East,Website,False,39.0
-ORD-10476,2025-11-04,C1348,Soy Candle Gift Set,Candles,-2,34.5,,Midlands,Instagram,True,-69.0
-ORD-10477,2025-11-11,C1202,Macrame Wall Hanging,Decor,-1,39.0,FREESHIP,Wales,Instagram,True,-39.0
-ORD-10478,2025-03-29,C1267,Woven Storage Basket,Storage,2,31.0,,Scotland,Etsy,False,62.0
-ORD-10479,2025-01-12,C1221,Macrame Wall Hanging,Decor,2,39.0,,North West,Etsy,False,78.0
-ORD-10480,2025-09-23,C1041,Ceramic Mug - Sage,Kitchen,1,12.5,,London,Etsy,False,12.5
-ORD-10481,2025-04-26,C1303,Ceramic Mug - Sand,Kitchen,4,12.5,,Unknown,Website,False,50.0
-ORD-10482,2025-10-11,C1043,Scented Candle - Lavender,Candles,2,14.99,,South East,Website,False,29.98
-ORD-10483,2025-10-02,C1119,Bamboo Serving Board,Kitchen,1,28.0,10%,North West,Website,False,28.0
-ORD-10484,2025-08-21,C1006,Ceramic Mug - Sand,Kitchen,3,12.5,,North West,Website,False,37.5
-ORD-10485,2025-04-10,C1262,Soy Candle Gift Set,Candles,2,34.5,10%,London,Website,False,69.0
-ORD-10486,2025-10-05,C1027,Soy Candle Gift Set,Candles,1,34.5,15%,North West,Website,False,34.5
-ORD-10487,2025-04-14,C1214,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Etsy,False,12.5
-ORD-10488,2025-01-22,C1105,Scented Candle - Lavender,Candles,2,14.99,10%,Scotland,Website,False,29.98
-ORD-10489,2025-10-18,C1134,Scented Candle - Vanilla,Candles,1,14.99,,South East,Etsy,False,14.99
-ORD-10490,2025-10-27,C1338,Cotton Throw Blanket,Textiles,3,45.0,,London,Etsy,False,135.0
-ORD-10491,2025-11-16,C1125,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,London,Instagram,False,39.0
-ORD-10492,2025-10-02,C1240,Soy Candle Gift Set,Candles,1,34.5,,London,Etsy,False,34.5
-ORD-10493,2025-07-18,C1137,Woven Storage Basket,Storage,2,31.0,10%,South East,Website,False,62.0
-ORD-10494,2025-10-07,C1384,Bamboo Serving Board,Kitchen,3,28.0,,South East,Website,False,84.0
-ORD-10495,2025-12-20,C1038,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,South East,Website,False,12.5
-ORD-10496,2025-09-20,C1393,Scented Candle - Vanilla,Candles,2,14.99,FREESHIP,Wales,Website,False,29.98
-ORD-10497,2025-03-12,C1387,Macrame Wall Hanging,Decor,2,39.0,15%,Midlands,Website,False,78.0
-ORD-10498,2025-03-18,C1160,Linen Cushion Cover,Textiles,1,22.0,,Scotland,Website,False,22.0
-ORD-10499,2025-11-28,C1214,Reed Diffuser,Fragrance,1,19.99,,London,Instagram,False,19.99
-ORD-10500,2025-12-20,C1293,Ceramic Mug - Sage,Kitchen,1,12.5,15%,North West,Website,False,12.5
-ORD-10501,2025-11-07,C1013,Bamboo Serving Board,Kitchen,1,28.0,10%,North West,Website,False,28.0
-ORD-10502,2025-11-22,C1214,Reed Diffuser,Fragrance,1,19.99,15%,London,Website,False,19.99
-ORD-10503,2025-10-10,C1228,Ceramic Mug - Sand,Kitchen,-2,12.5,,North West,Website,True,-25.0
-ORD-10504,2025-09-27,C1152,Room Spray - Citrus,Fragrance,3,9.99,FREESHIP,South East,Etsy,False,29.97
-ORD-10505,2025-12-24,C1321,Ceramic Mug - Sand,Kitchen,1,12.5,,Midlands,Website,False,12.5
-ORD-10506,2025-04-22,C1106,Ceramic Mug - Sand,Kitchen,4,12.5,,North West,Instagram,False,50.0
-ORD-10507,2025-12-22,C1236,Bamboo Serving Board,Kitchen,1,28.0,10%,Scotland,Instagram,False,28.0
-ORD-10508,2025-11-27,C1139,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,London,Website,False,34.5
-ORD-10509,2025-01-18,C1227,Reed Diffuser,Fragrance,1,19.99,,Scotland,Etsy,False,19.99
-ORD-10510,2025-04-14,C1340,Ceramic Mug - Sage,Kitchen,3,12.5,,London,Website,False,37.5
-ORD-10511,2025-02-25,C1205,Ceramic Mug - Sage,Kitchen,1,12.5,,London,Website,False,12.5
-ORD-10512,2025-11-21,C1087,Room Spray - Citrus,Fragrance,1,9.99,15%,London,Website,False,9.99
-ORD-10513,2025-11-20,Unknown,Woven Storage Basket,Storage,3,31.0,,Scotland,Website,False,93.0
-ORD-10514,2025-09-19,C1040,Linen Cushion Cover,Textiles,1,22.0,15%,Scotland,Website,False,22.0
-ORD-10515,2025-03-19,C1266,Woven Storage Basket,Storage,1,31.0,,Wales,Etsy,False,31.0
-ORD-10516,2025-12-11,C1266,Ceramic Mug - Sage,Kitchen,1,12.5,10%,North West,Instagram,False,12.5
-ORD-10517,2025-10-02,C1371,Woven Storage Basket,Storage,4,31.0,10%,Wales,Website,False,124.0
-ORD-10518,2025-10-10,C1225,Cotton Throw Blanket,Textiles,1,45.0,10%,Wales,Website,False,45.0
-ORD-10519,2025-03-21,C1194,Bamboo Serving Board,Kitchen,1,28.0,,South East,Instagram,False,28.0
-ORD-10520,2025-11-07,C1202,Ceramic Mug - Sage,Kitchen,1,12.5,10%,South East,Website,False,12.5
-ORD-10521,2025-11-25,C1178,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,London,Instagram,False,14.99
-ORD-10522,2025-11-14,C1348,Macrame Wall Hanging,Decor,1,39.0,10%,South East,Instagram,False,39.0
-ORD-10523,2025-12-06,C1084,Scented Candle - Lavender,Candles,1,14.99,10%,London,Etsy,False,14.99
-ORD-10524,2025-09-30,C1383,Ceramic Mug - Sand,Kitchen,1,12.5,,Scotland,Etsy,False,12.5
-ORD-10525,2025-10-25,C1230,Macrame Wall Hanging,Decor,1,39.0,,South East,Website,False,39.0
-ORD-10526,2025-04-04,C1063,Linen Cushion Cover,Textiles,1,22.0,10%,Midlands,Website,False,22.0
-ORD-10527,2025-09-02,C1266,Scented Candle - Vanilla,Candles,-1,14.99,15%,London,Instagram,True,-14.99
-ORD-10528,2025-08-31,C1182,Room Spray - Citrus,Fragrance,1,9.99,,South East,Instagram,False,9.99
-ORD-10529,2025-12-24,C1263,Soy Candle Gift Set,Candles,1,34.5,10%,London,Website,False,34.5
-ORD-10530,2025-11-28,C1337,Scented Candle - Lavender,Candles,4,14.99,10%,Scotland,Etsy,False,59.96
-ORD-10531,2025-05-31,C1239,Macrame Wall Hanging,Decor,1,39.0,15%,North West,Etsy,False,39.0
-ORD-10532,2025-12-06,C1392,Linen Cushion Cover,Textiles,1,22.0,10%,Scotland,Etsy,False,22.0
-ORD-10533,2025-10-18,C1367,Woven Storage Basket,Storage,2,31.0,10%,London,Etsy,False,62.0
-ORD-10534,2025-10-15,C1293,Ceramic Mug - Sand,Kitchen,2,12.5,,London,Website,False,25.0
-ORD-10535,2025-10-23,C1339,Cotton Throw Blanket,Textiles,1,45.0,15%,North West,Etsy,False,45.0
-ORD-10536,2025-10-03,C1017,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,Wales,Etsy,False,12.5
-ORD-10537,2025-03-05,C1115,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,North West,Website,False,39.0
-ORD-10538,2025-04-02,C1387,Macrame Wall Hanging,Decor,1,39.0,,Wales,Etsy,False,39.0
-ORD-10539,2025-05-25,C1234,Linen Cushion Cover,Textiles,2,22.0,,North West,Website,False,44.0
-ORD-10540,2025-09-05,C1192,Soy Candle Gift Set,Candles,1,34.5,,Midlands,Website,False,34.5
-ORD-10541,2025-11-06,C1250,Scented Candle - Lavender,Candles,1,14.99,10%,South East,Website,False,14.99
-ORD-10542,2025-07-12,C1062,Woven Storage Basket,Storage,2,31.0,,Scotland,Instagram,False,62.0
-ORD-10543,2025-01-12,C1050,Room Spray - Citrus,Fragrance,1,9.99,,Scotland,Website,False,9.99
-ORD-10544,2025-12-01,C1385,Ceramic Mug - Sand,Kitchen,1,12.5,,North West,Etsy,False,12.5
-ORD-10545,2025-04-03,C1043,Macrame Wall Hanging,Decor,1,39.0,,North West,Etsy,False,39.0
-ORD-10546,2025-12-01,C1180,Linen Cushion Cover,Textiles,1,22.0,15%,Wales,Website,False,22.0
-ORD-10547,2025-12-06,C1318,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,London,Instagram,False,22.0
-ORD-10548,2025-11-29,C1365,Ceramic Mug - Sand,Kitchen,1,12.5,,Wales,Etsy,False,12.5
-ORD-10549,2025-10-11,C1185,Ceramic Mug - Sand,Kitchen,1,12.5,,Wales,Website,False,12.5
-ORD-10550,2025-04-26,C1270,Scented Candle - Vanilla,Candles,1,14.99,,Wales,Website,False,14.99
-ORD-10551,2025-05-19,C1244,Scented Candle - Lavender,Candles,1,14.99,10%,Wales,Website,False,14.99
-ORD-10552,2025-03-21,C1234,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,Scotland,Website,False,34.5
-ORD-10553,2025-09-15,C1324,Ceramic Mug - Sand,Kitchen,1,12.5,,Scotland,Instagram,False,12.5
-ORD-10554,2025-03-26,C1254,Scented Candle - Vanilla,Candles,2,14.99,10%,North West,Website,False,29.98
-ORD-10555,2025-10-20,C1391,Linen Cushion Cover,Textiles,3,22.0,FREESHIP,Scotland,Etsy,False,66.0
-ORD-10556,2025-03-10,C1153,Scented Candle - Lavender,Candles,1,14.99,,South East,Website,False,14.99
-ORD-10557,2025-11-20,Unknown,Linen Cushion Cover,Textiles,3,22.0,,Wales,Instagram,False,66.0
-ORD-10558,2025-12-06,C1128,Ceramic Mug - Sand,Kitchen,-1,12.5,FREESHIP,London,Website,True,-12.5
-ORD-10559,2025-08-08,C1101,Reed Diffuser,Fragrance,2,19.99,FREESHIP,London,Website,False,39.98
-ORD-10560,2025-08-04,C1065,Scented Candle - Lavender,Candles,1,14.99,FREESHIP,London,Website,False,14.99
-ORD-10561,2025-09-14,C1347,Macrame Wall Hanging,Decor,2,39.0,,Unknown,Website,False,78.0
-ORD-10562,2025-01-05,C1126,Cotton Throw Blanket,Textiles,1,45.0,FREESHIP,London,Website,False,45.0
-ORD-10563,2025-02-22,Unknown,Reed Diffuser,Fragrance,2,19.99,,London,Instagram,False,39.98
-ORD-10564,2025-07-14,C1143,Cotton Throw Blanket,Textiles,2,45.0,,Wales,Website,False,90.0
-ORD-10565,2025-10-02,Unknown,Woven Storage Basket,Storage,2,31.0,,London,Website,False,62.0
-ORD-10566,2025-06-19,C1380,Ceramic Mug - Sage,Kitchen,2,12.5,FREESHIP,North West,Etsy,False,25.0
-ORD-10567,2025-12-02,C1078,Linen Cushion Cover,Textiles,2,22.0,FREESHIP,Wales,Website,False,44.0
-ORD-10568,2025-05-10,C1085,Reed Diffuser,Fragrance,4,19.99,,Midlands,Website,False,79.96
-ORD-10569,2025-01-24,C1196,Scented Candle - Lavender,Candles,2,14.99,15%,Scotland,Etsy,False,29.98
-ORD-10570,2025-10-19,C1362,Linen Cushion Cover,Textiles,1,22.0,,London,Instagram,False,22.0
-ORD-10571,2025-10-21,C1000,Soy Candle Gift Set,Candles,3,34.5,,London,Website,False,103.5
-ORD-10572,2025-12-18,C1090,Cotton Throw Blanket,Textiles,2,45.0,,South East,Etsy,False,90.0
-ORD-10573,2025-12-23,C1385,Ceramic Mug - Sand,Kitchen,3,12.5,FREESHIP,London,Etsy,False,37.5
-ORD-10574,2025-08-11,C1158,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0
-ORD-10575,2025-10-03,C1196,Ceramic Mug - Sand,Kitchen,1,12.5,10%,Midlands,Instagram,False,12.5
-ORD-10576,2025-11-26,C1173,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,London,Website,False,34.5
-ORD-10577,2025-10-16,C1151,Soy Candle Gift Set,Candles,1,34.5,15%,Unknown,Website,False,34.5
-ORD-10578,2025-01-01,C1251,Scented Candle - Lavender,Candles,1,14.99,,South East,Website,False,14.99
-ORD-10579,2025-05-25,C1217,Room Spray - Citrus,Fragrance,1,9.99,FREESHIP,South East,Instagram,False,9.99
-ORD-10580,2025-05-27,C1398,Scented Candle - Vanilla,Candles,1,14.99,,South East,Website,False,14.99
-ORD-10581,2025-09-02,C1355,Scented Candle - Vanilla,Candles,1,14.99,10%,Wales,Website,False,14.99
-ORD-10582,2025-03-12,C1215,Woven Storage Basket,Storage,3,31.0,FREESHIP,South East,Website,False,93.0
-ORD-10583,2025-04-23,C1150,Linen Cushion Cover,Textiles,1,22.0,,London,Instagram,False,22.0
-ORD-10584,2025-10-02,C1297,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,Wales,Etsy,False,39.0
-ORD-10585,2025-10-03,C1240,Linen Cushion Cover,Textiles,1,22.0,,North West,Etsy,False,22.0
-ORD-10586,2025-10-05,C1364,Scented Candle - Lavender,Candles,3,14.99,15%,London,Etsy,False,44.97
-ORD-10587,2025-10-09,C1039,Scented Candle - Vanilla,Candles,1,14.99,15%,Wales,Website,False,14.99
-ORD-10588,2025-11-25,C1054,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Unknown,Etsy,False,12.5
-ORD-10589,2025-10-21,C1004,Scented Candle - Lavender,Candles,1,14.99,,London,Etsy,False,14.99
-ORD-10590,2025-11-24,C1300,Ceramic Mug - Sage,Kitchen,4,12.5,10%,Unknown,Website,False,50.0
-ORD-10591,2025-12-16,C1373,Woven Storage Basket,Storage,1,31.0,15%,Scotland,Instagram,False,31.0
-ORD-10592,2025-08-18,C1038,Ceramic Mug - Sage,Kitchen,1,12.5,15%,North West,Instagram,False,12.5
-ORD-10593,2025-02-19,C1082,Soy Candle Gift Set,Candles,2,34.5,,South East,Instagram,False,69.0
-ORD-10594,2025-11-09,C1205,Bamboo Serving Board,Kitchen,4,28.0,,Scotland,Website,False,112.0
-ORD-10595,2025-08-14,C1029,Room Spray - Citrus,Fragrance,4,9.99,FREESHIP,South East,Etsy,False,39.96
-ORD-10596,2025-10-10,C1055,Ceramic Mug - Sand,Kitchen,1,12.5,10%,South East,Website,False,12.5
-ORD-10597,2025-07-23,C1079,Linen Cushion Cover,Textiles,1,22.0,15%,London,Website,False,22.0
-ORD-10598,2025-12-25,C1129,Ceramic Mug - Sand,Kitchen,1,12.5,,Midlands,Etsy,False,12.5
-ORD-10599,2025-12-15,C1101,Ceramic Mug - Sand,Kitchen,1,12.5,,North West,Website,False,12.5
-ORD-10600,2025-12-19,C1315,Macrame Wall Hanging,Decor,1,39.0,15%,Midlands,Etsy,False,39.0
-ORD-10601,2025-11-05,C1230,Bamboo Serving Board,Kitchen,3,28.0,FREESHIP,London,Instagram,False,84.0
-ORD-10602,2025-04-07,C1008,Reed Diffuser,Fragrance,2,19.99,,North West,Website,False,39.98
-ORD-10603,2025-03-05,C1219,Woven Storage Basket,Storage,4,31.0,10%,South East,Website,False,124.0
-ORD-10604,2025-08-12,C1045,Woven Storage Basket,Storage,2,31.0,,South East,Website,False,62.0
-ORD-10605,2025-09-12,C1195,Room Spray - Citrus,Fragrance,3,9.99,15%,London,Website,False,29.97
-ORD-10606,2025-06-29,C1135,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,Midlands,Etsy,False,28.0
-ORD-10607,2025-11-02,C1284,Scented Candle - Lavender,Candles,1,14.99,,Midlands,Etsy,False,14.99
-ORD-10608,2025-01-27,C1258,Room Spray - Citrus,Fragrance,1,9.99,,Wales,Website,False,9.99
-ORD-10609,2025-11-18,C1040,Reed Diffuser,Fragrance,1,19.99,15%,South East,Website,False,19.99
-ORD-10610,2025-08-21,C1337,Ceramic Mug - Sage,Kitchen,1,12.5,,North West,Website,False,12.5
-ORD-10611,2025-01-12,C1106,Room Spray - Citrus,Fragrance,3,9.99,,London,Instagram,False,29.97
-ORD-10612,2025-02-07,C1337,Woven Storage Basket,Storage,-1,31.0,,Scotland,Website,True,-31.0
-ORD-10613,2025-06-25,C1110,Bamboo Serving Board,Kitchen,4,28.0,,North West,Website,False,112.0
-ORD-10614,2025-10-24,C1223,Macrame Wall Hanging,Decor,3,39.0,10%,London,Website,False,117.0
-ORD-10615,2025-12-09,C1382,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Midlands,Etsy,False,12.5
-ORD-10616,2025-07-16,C1330,Room Spray - Citrus,Fragrance,1,9.99,15%,Midlands,Etsy,False,9.99
-ORD-10617,2025-11-14,C1238,Soy Candle Gift Set,Candles,1,34.5,,London,Etsy,False,34.5
-ORD-10618,2025-02-03,C1215,Room Spray - Citrus,Fragrance,1,9.99,FREESHIP,London,Etsy,False,9.99
-ORD-10619,2025-11-16,C1294,Scented Candle - Lavender,Candles,4,14.99,FREESHIP,South East,Website,False,59.96
-ORD-10620,2025-12-17,C1396,Scented Candle - Lavender,Candles,1,14.99,15%,London,Website,False,14.99
+order_id,order_date,customer_id,product,category,quantity,unit_price,discount_code,region,sales_channel,is_return,revenue,net_revenue
+ORD-10001,2025-12-09,C1308,Linen Cushion Cover,Textiles,1,22.0,15%,Unknown,Etsy,False,22.0,18.7
+ORD-10002,2025-10-07,C1047,Bamboo Serving Board,Kitchen,1,28.0,,Midlands,Website,False,28.0,28.0
+ORD-10003,2025-05-16,C1360,Macrame Wall Hanging,Decor,1,39.0,,London,Instagram,False,39.0,39.0
+ORD-10004,2025-02-10,C1311,Scented Candle - Vanilla,Candles,1,14.99,,South East,Etsy,False,14.99,14.99
+ORD-10005,2025-08-25,C1108,Woven Storage Basket,Storage,2,31.0,,London,Website,False,62.0,62.0
+ORD-10006,2025-04-19,C1204,Ceramic Mug - Sand,Kitchen,3,12.5,15%,North West,Website,False,37.5,31.88
+ORD-10007,2025-10-28,C1005,Scented Candle - Vanilla,Candles,1,14.99,15%,London,Etsy,False,14.99,12.74
+ORD-10008,2025-05-17,C1320,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Website,False,12.5,12.5
+ORD-10009,2025-03-20,C1122,Soy Candle Gift Set,Candles,1,34.5,,Scotland,Website,False,34.5,34.5
+ORD-10010,2025-02-13,C1353,Scented Candle - Vanilla,Candles,4,14.99,FREESHIP,North West,Website,False,59.96,59.96
+ORD-10011,2025-11-29,C1117,Reed Diffuser,Fragrance,1,19.99,,Unknown,Website,False,19.99,19.99
+ORD-10012,2025-12-16,C1220,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,Scotland,Instagram,False,22.0,22.0
+ORD-10013,2025-01-28,C1127,Woven Storage Basket,Storage,1,31.0,10%,South East,Website,False,31.0,27.9
+ORD-10014,2025-12-18,C1199,Scented Candle - Lavender,Candles,4,14.99,,Wales,Etsy,False,59.96,59.96
+ORD-10015,2025-08-05,C1160,Macrame Wall Hanging,Decor,4,39.0,FREESHIP,North West,Etsy,False,156.0,156.0
+ORD-10016,2025-12-03,C1214,Soy Candle Gift Set,Candles,-1,34.5,,London,Instagram,True,-34.5,-34.5
+ORD-10017,2025-12-11,C1051,Linen Cushion Cover,Textiles,1,22.0,15%,Unknown,Etsy,False,22.0,18.7
+ORD-10018,2025-06-28,C1153,Linen Cushion Cover,Textiles,-1,22.0,15%,London,Etsy,True,-22.0,-18.7
+ORD-10019,2025-10-24,C1047,Reed Diffuser,Fragrance,1,19.99,,London,Website,False,19.99,19.99
+ORD-10020,2025-06-20,C1298,Woven Storage Basket,Storage,4,31.0,,London,Website,False,124.0,124.0
+ORD-10021,2025-07-06,C1121,Scented Candle - Lavender,Candles,3,14.99,,London,Website,False,44.97,44.97
+ORD-10022,2025-12-11,C1179,Ceramic Mug - Sand,Kitchen,2,12.5,10%,Midlands,Etsy,False,25.0,22.5
+ORD-10023,2025-01-13,C1059,Ceramic Mug - Sand,Kitchen,1,12.5,,Midlands,Instagram,False,12.5,12.5
+ORD-10024,2025-12-14,C1266,Ceramic Mug - Sage,Kitchen,2,12.5,,South East,Etsy,False,25.0,25.0
+ORD-10025,2025-11-03,C1151,Woven Storage Basket,Storage,3,31.0,FREESHIP,North West,Etsy,False,93.0,93.0
+ORD-10026,2025-07-14,C1226,Soy Candle Gift Set,Candles,2,34.5,10%,South East,Website,False,69.0,62.1
+ORD-10027,2025-03-28,C1023,Cotton Throw Blanket,Textiles,1,45.0,,North West,Website,False,45.0,45.0
+ORD-10028,2025-02-07,C1398,Woven Storage Basket,Storage,1,31.0,,Scotland,Website,False,31.0,31.0
+ORD-10029,2025-09-23,C1313,Reed Diffuser,Fragrance,1,19.99,10%,Midlands,Website,False,19.99,17.99
+ORD-10030,2025-10-08,C1225,Soy Candle Gift Set,Candles,2,34.5,,South East,Website,False,69.0,69.0
+ORD-10031,2025-06-13,C1215,Scented Candle - Vanilla,Candles,1,14.99,,London,Etsy,False,14.99,14.99
+ORD-10032,2025-01-11,C1308,Room Spray - Citrus,Fragrance,1,9.99,15%,London,Website,False,9.99,8.49
+ORD-10033,2025-11-22,C1013,Woven Storage Basket,Storage,2,31.0,FREESHIP,Scotland,Etsy,False,62.0,62.0
+ORD-10034,2025-11-11,C1276,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,South East,Instagram,False,22.0,22.0
+ORD-10035,2025-02-05,C1238,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0,31.0
+ORD-10036,2025-11-07,C1303,Macrame Wall Hanging,Decor,1,39.0,,Midlands,Instagram,False,39.0,39.0
+ORD-10037,2025-06-04,C1215,Room Spray - Citrus,Fragrance,2,9.99,,Midlands,Etsy,False,19.98,19.98
+ORD-10038,2025-11-22,C1374,Bamboo Serving Board,Kitchen,2,28.0,10%,South East,Etsy,False,56.0,50.4
+ORD-10039,2025-02-14,C1174,Bamboo Serving Board,Kitchen,1,28.0,,South East,Etsy,False,28.0,28.0
+ORD-10040,2025-10-03,C1207,Linen Cushion Cover,Textiles,2,22.0,,South East,Etsy,False,44.0,44.0
+ORD-10041,2025-08-31,C1274,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,Scotland,Website,False,12.5,12.5
+ORD-10042,2025-09-05,C1140,Room Spray - Citrus,Fragrance,4,9.99,,North West,Website,False,39.96,39.96
+ORD-10043,2025-03-06,C1033,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0,28.0
+ORD-10044,2025-12-10,C1301,Scented Candle - Vanilla,Candles,4,14.99,,London,Etsy,False,59.96,59.96
+ORD-10045,2025-11-09,C1304,Scented Candle - Vanilla,Candles,3,14.99,FREESHIP,London,Website,False,44.97,44.97
+ORD-10046,2025-05-25,C1331,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0,28.0
+ORD-10047,2025-11-20,C1041,Macrame Wall Hanging,Decor,2,39.0,10%,Wales,Website,False,78.0,70.2
+ORD-10048,2025-11-06,C1240,Scented Candle - Vanilla,Candles,1,14.99,,Scotland,Instagram,False,14.99,14.99
+ORD-10049,2025-10-27,C1389,Bamboo Serving Board,Kitchen,4,28.0,10%,South East,Website,False,112.0,100.8
+ORD-10050,2025-11-28,C1389,Reed Diffuser,Fragrance,2,19.99,10%,London,Instagram,False,39.98,35.98
+ORD-10051,2025-05-28,C1236,Macrame Wall Hanging,Decor,1,39.0,,London,Etsy,False,39.0,39.0
+ORD-10052,2025-05-30,C1141,Cotton Throw Blanket,Textiles,1,45.0,,South East,Website,False,45.0,45.0
+ORD-10053,2025-09-17,C1193,Scented Candle - Lavender,Candles,1,14.99,15%,London,Etsy,False,14.99,12.74
+ORD-10054,2025-11-08,C1018,Ceramic Mug - Sand,Kitchen,1,12.5,10%,Scotland,Etsy,False,12.5,11.25
+ORD-10055,2025-02-21,C1173,Bamboo Serving Board,Kitchen,1,28.0,,Midlands,Website,False,28.0,28.0
+ORD-10056,2025-06-18,C1116,Reed Diffuser,Fragrance,1,19.99,,South East,Etsy,False,19.99,19.99
+ORD-10057,2025-11-21,C1289,Scented Candle - Vanilla,Candles,1,14.99,10%,Scotland,Instagram,False,14.99,13.49
+ORD-10058,2025-11-09,C1147,Room Spray - Citrus,Fragrance,2,9.99,10%,South East,Etsy,False,19.98,17.98
+ORD-10059,2025-06-26,C1183,Cotton Throw Blanket,Textiles,2,45.0,15%,South East,Website,False,90.0,76.5
+ORD-10060,2025-12-04,C1310,Scented Candle - Lavender,Candles,1,14.99,,Scotland,Etsy,False,14.99,14.99
+ORD-10061,2025-05-09,C1046,Macrame Wall Hanging,Decor,2,39.0,,Scotland,Website,False,78.0,78.0
+ORD-10062,2025-12-12,C1239,Reed Diffuser,Fragrance,1,19.99,,London,Website,False,19.99,19.99
+ORD-10063,2025-12-13,C1134,Ceramic Mug - Sand,Kitchen,4,12.5,FREESHIP,Midlands,Website,False,50.0,50.0
+ORD-10064,2025-02-25,C1059,Bamboo Serving Board,Kitchen,1,28.0,10%,Midlands,Etsy,False,28.0,25.2
+ORD-10065,2025-10-18,C1050,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,South East,Instagram,False,34.5,34.5
+ORD-10066,2025-11-07,C1097,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0,28.0
+ORD-10067,2025-02-16,C1106,Woven Storage Basket,Storage,2,31.0,15%,Wales,Website,False,62.0,52.7
+ORD-10068,2025-03-17,C1301,Room Spray - Citrus,Fragrance,1,9.99,,Midlands,Website,False,9.99,9.99
+ORD-10069,2025-08-04,C1266,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,South East,Website,False,39.0,39.0
+ORD-10070,2025-09-03,C1299,Ceramic Mug - Sand,Kitchen,2,12.5,FREESHIP,South East,Instagram,False,25.0,25.0
+ORD-10071,2025-09-29,C1116,Reed Diffuser,Fragrance,2,19.99,10%,London,Etsy,False,39.98,35.98
+ORD-10072,2025-02-18,C1190,Ceramic Mug - Sage,Kitchen,2,12.5,FREESHIP,South East,Website,False,25.0,25.0
+ORD-10073,2025-10-15,C1053,Woven Storage Basket,Storage,1,31.0,,South East,Etsy,False,31.0,31.0
+ORD-10074,2025-04-25,C1345,Ceramic Mug - Sage,Kitchen,2,12.5,15%,South East,Etsy,False,25.0,21.25
+ORD-10075,2025-12-22,C1046,Soy Candle Gift Set,Candles,1,34.5,,Scotland,Instagram,False,34.5,34.5
+ORD-10076,2025-11-24,C1217,Ceramic Mug - Sage,Kitchen,2,12.5,FREESHIP,North West,Website,False,25.0,25.0
+ORD-10077,2025-11-04,C1392,Cotton Throw Blanket,Textiles,2,45.0,,North West,Website,False,90.0,90.0
+ORD-10078,2025-01-04,Guest,Ceramic Mug - Sand,Kitchen,1,12.5,,South East,Etsy,False,12.5,12.5
+ORD-10079,2025-10-22,C1045,Ceramic Mug - Sand,Kitchen,2,12.5,,South East,Website,False,25.0,25.0
+ORD-10080,2025-07-25,C1179,Ceramic Mug - Sand,Kitchen,3,12.5,,Scotland,Website,False,37.5,37.5
+ORD-10081,2025-11-07,C1348,Soy Candle Gift Set,Candles,2,34.5,10%,Scotland,Etsy,False,69.0,62.1
+ORD-10082,2025-11-16,C1231,Woven Storage Basket,Storage,1,31.0,10%,South East,Website,False,31.0,27.9
+ORD-10083,2025-11-27,C1096,Scented Candle - Vanilla,Candles,2,14.99,FREESHIP,South East,Website,False,29.98,29.98
+ORD-10084,2025-02-01,C1190,Ceramic Mug - Sage,Kitchen,4,12.5,,London,Etsy,False,50.0,50.0
+ORD-10085,2025-12-14,C1170,Woven Storage Basket,Storage,2,31.0,,London,Website,False,62.0,62.0
+ORD-10086,2025-06-08,C1378,Macrame Wall Hanging,Decor,2,39.0,FREESHIP,London,Etsy,False,78.0,78.0
+ORD-10087,2025-12-10,C1259,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Instagram,False,12.5,12.5
+ORD-10088,2025-01-20,C1186,Room Spray - Citrus,Fragrance,1,9.99,10%,South East,Website,False,9.99,8.99
+ORD-10089,2025-05-26,C1393,Bamboo Serving Board,Kitchen,1,28.0,10%,London,Instagram,False,28.0,25.2
+ORD-10090,2025-03-24,C1139,Room Spray - Citrus,Fragrance,1,9.99,,London,Etsy,False,9.99,9.99
+ORD-10091,2025-02-16,C1014,Linen Cushion Cover,Textiles,2,22.0,,Midlands,Instagram,False,44.0,44.0
+ORD-10092,2025-06-21,C1131,Soy Candle Gift Set,Candles,1,34.5,,Midlands,Website,False,34.5,34.5
+ORD-10093,2025-11-08,C1305,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Website,False,29.98,26.98
+ORD-10094,2025-03-15,C1259,Scented Candle - Lavender,Candles,2,14.99,15%,London,Website,False,29.98,25.48
+ORD-10095,2025-11-22,C1068,Ceramic Mug - Sage,Kitchen,1,12.5,,London,Etsy,False,12.5,12.5
+ORD-10096,2025-03-31,C1102,Woven Storage Basket,Storage,1,31.0,,Scotland,Etsy,False,31.0,31.0
+ORD-10097,2025-07-23,C1223,Reed Diffuser,Fragrance,1,19.99,,London,Etsy,False,19.99,19.99
+ORD-10098,2025-07-17,C1279,Soy Candle Gift Set,Candles,1,34.5,,South East,Instagram,False,34.5,34.5
+ORD-10099,2025-06-01,C1029,Room Spray - Citrus,Fragrance,2,9.99,FREESHIP,London,Website,False,19.98,19.98
+ORD-10100,2025-10-05,C1347,Room Spray - Citrus,Fragrance,-2,9.99,,South East,Website,True,-19.98,-19.98
+ORD-10101,2025-02-09,C1396,Reed Diffuser,Fragrance,1,19.99,,South East,Website,False,19.99,19.99
+ORD-10102,2025-05-27,C1341,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0,28.0
+ORD-10103,2025-06-03,C1013,Macrame Wall Hanging,Decor,2,39.0,10%,Scotland,Website,False,78.0,70.2
+ORD-10104,2025-10-03,C1230,Cotton Throw Blanket,Textiles,1,45.0,,Scotland,Website,False,45.0,45.0
+ORD-10105,2025-10-10,C1115,Soy Candle Gift Set,Candles,2,34.5,FREESHIP,London,Website,False,69.0,69.0
+ORD-10106,2025-02-10,C1337,Woven Storage Basket,Storage,4,31.0,,London,Etsy,False,124.0,124.0
+ORD-10107,2025-10-03,C1148,Scented Candle - Lavender,Candles,3,14.99,15%,Scotland,Website,False,44.97,38.22
+ORD-10108,2025-12-17,C1176,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,London,Website,False,28.0,28.0
+ORD-10109,2025-10-15,C1167,Scented Candle - Vanilla,Candles,1,14.99,,London,Website,False,14.99,14.99
+ORD-10110,2025-03-23,C1025,Reed Diffuser,Fragrance,1,19.99,,Midlands,Website,False,19.99,19.99
+ORD-10111,2025-12-11,C1099,Reed Diffuser,Fragrance,1,19.99,15%,London,Website,False,19.99,16.99
+ORD-10112,2025-08-19,C1386,Cotton Throw Blanket,Textiles,2,45.0,,North West,Etsy,False,90.0,90.0
+ORD-10113,2025-10-23,C1378,Ceramic Mug - Sage,Kitchen,2,12.5,15%,South East,Website,False,25.0,21.25
+ORD-10114,2025-09-18,C1322,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,South East,Website,False,39.0,39.0
+ORD-10115,2025-10-24,C1358,Macrame Wall Hanging,Decor,1,39.0,15%,South East,Website,False,39.0,33.15
+ORD-10116,2025-03-19,C1244,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,Scotland,Instagram,False,22.0,22.0
+ORD-10117,2025-09-30,C1115,Ceramic Mug - Sage,Kitchen,2,12.5,,Midlands,Etsy,False,25.0,25.0
+ORD-10118,2025-12-16,C1176,Ceramic Mug - Sage,Kitchen,1,12.5,10%,North West,Instagram,False,12.5,11.25
+ORD-10119,2025-05-28,C1055,Scented Candle - Vanilla,Candles,1,14.99,,South East,Website,False,14.99,14.99
+ORD-10120,2025-12-09,C1208,Linen Cushion Cover,Textiles,2,22.0,,Unknown,Website,False,44.0,44.0
+ORD-10121,2025-11-11,C1213,Cotton Throw Blanket,Textiles,2,45.0,,Midlands,Website,False,90.0,90.0
+ORD-10122,2025-07-23,C1232,Soy Candle Gift Set,Candles,3,34.5,,Wales,Instagram,False,103.5,103.5
+ORD-10123,2025-03-10,C1290,Bamboo Serving Board,Kitchen,1,28.0,,Unknown,Website,False,28.0,28.0
+ORD-10124,2025-11-24,C1385,Ceramic Mug - Sand,Kitchen,1,12.5,10%,Unknown,Etsy,False,12.5,11.25
+ORD-10125,2025-12-12,C1060,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,North West,Website,False,39.0,39.0
+ORD-10126,2025-10-16,C1348,Soy Candle Gift Set,Candles,1,34.5,,Wales,Website,False,34.5,34.5
+ORD-10127,2025-08-17,C1226,Ceramic Mug - Sage,Kitchen,1,12.5,15%,North West,Website,False,12.5,10.62
+ORD-10128,2025-02-16,C1130,Bamboo Serving Board,Kitchen,2,28.0,10%,South East,Website,False,56.0,50.4
+ORD-10129,2025-01-24,C1373,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,Wales,Instagram,False,39.0,39.0
+ORD-10130,2025-07-15,C1372,Ceramic Mug - Sand,Kitchen,1,12.5,,Scotland,Etsy,False,12.5,12.5
+ORD-10131,2025-06-02,C1392,Macrame Wall Hanging,Decor,1,39.0,15%,North West,Etsy,False,39.0,33.15
+ORD-10132,2025-10-15,C1257,Room Spray - Citrus,Fragrance,2,9.99,,Midlands,Website,False,19.98,19.98
+ORD-10133,2025-10-22,C1302,Room Spray - Citrus,Fragrance,2,9.99,15%,Midlands,Website,False,19.98,16.98
+ORD-10134,2025-08-07,C1242,Scented Candle - Lavender,Candles,4,14.99,15%,Wales,Etsy,False,59.96,50.97
+ORD-10135,2025-03-15,C1274,Scented Candle - Lavender,Candles,1,14.99,,Wales,Etsy,False,14.99,14.99
+ORD-10136,2025-12-11,C1108,Scented Candle - Lavender,Candles,3,14.99,,London,Etsy,False,44.97,44.97
+ORD-10137,2025-09-03,C1184,Macrame Wall Hanging,Decor,2,39.0,,London,Instagram,False,78.0,78.0
+ORD-10138,2025-08-29,C1213,Ceramic Mug - Sage,Kitchen,3,12.5,FREESHIP,South East,Website,False,37.5,37.5
+ORD-10139,2025-10-19,C1180,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,Wales,Website,False,28.0,28.0
+ORD-10140,2025-10-05,Guest,Scented Candle - Lavender,Candles,1,14.99,FREESHIP,Midlands,Website,False,14.99,14.99
+ORD-10141,2025-11-13,C1357,Room Spray - Citrus,Fragrance,3,9.99,15%,North West,Website,False,29.97,25.47
+ORD-10142,2025-02-24,C1124,Reed Diffuser,Fragrance,1,19.99,15%,London,Website,False,19.99,16.99
+ORD-10143,2025-02-11,C1169,Woven Storage Basket,Storage,2,31.0,FREESHIP,London,Website,False,62.0,62.0
+ORD-10144,2025-09-28,C1091,Linen Cushion Cover,Textiles,1,22.0,,Midlands,Instagram,False,22.0,22.0
+ORD-10145,2025-12-27,C1071,Ceramic Mug - Sand,Kitchen,3,12.5,FREESHIP,London,Etsy,False,37.5,37.5
+ORD-10146,2025-11-08,C1182,Scented Candle - Vanilla,Candles,1,14.99,,Scotland,Instagram,False,14.99,14.99
+ORD-10147,2025-10-27,C1162,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Website,False,29.98,26.98
+ORD-10148,2025-08-16,C1166,Cotton Throw Blanket,Textiles,1,45.0,15%,London,Website,False,45.0,38.25
+ORD-10149,2025-02-13,C1222,Reed Diffuser,Fragrance,3,19.99,,Wales,Etsy,False,59.97,59.97
+ORD-10150,2025-07-04,C1225,Linen Cushion Cover,Textiles,2,22.0,,South East,Etsy,False,44.0,44.0
+ORD-10151,2025-11-20,C1166,Macrame Wall Hanging,Decor,1,39.0,,South East,Instagram,False,39.0,39.0
+ORD-10152,2025-02-28,C1354,Linen Cushion Cover,Textiles,1,22.0,,North West,Etsy,False,22.0,22.0
+ORD-10153,2025-12-11,C1259,Woven Storage Basket,Storage,1,31.0,15%,London,Website,False,31.0,26.35
+ORD-10154,2025-01-19,C1330,Ceramic Mug - Sage,Kitchen,2,12.5,15%,Midlands,Etsy,False,25.0,21.25
+ORD-10155,2025-10-09,C1077,Linen Cushion Cover,Textiles,1,22.0,15%,South East,Etsy,False,22.0,18.7
+ORD-10156,2025-08-01,C1356,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,Wales,Website,False,14.99,14.99
+ORD-10157,2025-11-21,C1322,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Instagram,False,29.98,26.98
+ORD-10158,2025-01-15,C1095,Linen Cushion Cover,Textiles,1,22.0,15%,South East,Website,False,22.0,18.7
+ORD-10159,2025-12-10,C1361,Reed Diffuser,Fragrance,4,19.99,FREESHIP,South East,Website,False,79.96,79.96
+ORD-10160,2025-10-08,C1355,Cotton Throw Blanket,Textiles,1,45.0,15%,South East,Website,False,45.0,38.25
+ORD-10161,2025-03-27,C1258,Soy Candle Gift Set,Candles,1,34.5,15%,Midlands,Etsy,False,34.5,29.32
+ORD-10162,2025-12-30,C1395,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,North West,Etsy,False,28.0,28.0
+ORD-10163,2025-02-28,C1384,Reed Diffuser,Fragrance,2,19.99,FREESHIP,South East,Etsy,False,39.98,39.98
+ORD-10164,2025-05-15,C1219,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,Wales,Etsy,False,14.99,14.99
+ORD-10165,2025-04-16,C1048,Room Spray - Citrus,Fragrance,1,9.99,FREESHIP,London,Website,False,9.99,9.99
+ORD-10166,2025-01-31,C1323,Woven Storage Basket,Storage,1,31.0,15%,Midlands,Website,False,31.0,26.35
+ORD-10167,2025-11-21,C1047,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,Scotland,Etsy,False,14.99,14.99
+ORD-10168,2025-07-03,C1349,Reed Diffuser,Fragrance,1,19.99,,Wales,Etsy,False,19.99,19.99
+ORD-10169,2025-10-15,C1047,Bamboo Serving Board,Kitchen,1,28.0,,Wales,Website,False,28.0,28.0
+ORD-10170,2025-11-21,Guest,Cotton Throw Blanket,Textiles,2,45.0,FREESHIP,Scotland,Website,False,90.0,90.0
+ORD-10171,2025-08-05,C1328,Bamboo Serving Board,Kitchen,1,28.0,,South East,Etsy,False,28.0,28.0
+ORD-10172,2025-01-05,C1071,Soy Candle Gift Set,Candles,1,34.5,,Scotland,Etsy,False,34.5,34.5
+ORD-10173,2025-08-08,C1105,Soy Candle Gift Set,Candles,1,34.5,,North West,Website,False,34.5,34.5
+ORD-10174,2025-06-01,C1198,Linen Cushion Cover,Textiles,1,22.0,,London,Website,False,22.0,22.0
+ORD-10175,2025-11-25,C1392,Scented Candle - Vanilla,Candles,1,14.99,15%,London,Website,False,14.99,12.74
+ORD-10176,2025-10-02,C1348,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,South East,Website,False,34.5,34.5
+ORD-10177,2025-10-14,C1267,Scented Candle - Vanilla,Candles,1,14.99,,North West,Website,False,14.99,14.99
+ORD-10178,2025-11-24,C1261,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Etsy,False,29.98,26.98
+ORD-10179,2025-10-19,C1018,Woven Storage Basket,Storage,2,31.0,,London,Website,False,62.0,62.0
+ORD-10180,2025-10-14,C1035,Macrame Wall Hanging,Decor,1,39.0,10%,Midlands,Etsy,False,39.0,35.1
+ORD-10181,2025-06-09,C1375,Reed Diffuser,Fragrance,1,19.99,,South East,Website,False,19.99,19.99
+ORD-10182,2025-01-04,C1053,Scented Candle - Lavender,Candles,1,14.99,,South East,Etsy,False,14.99,14.99
+ORD-10183,2025-01-31,C1297,Soy Candle Gift Set,Candles,2,34.5,,London,Instagram,False,69.0,69.0
+ORD-10184,2025-02-08,C1231,Scented Candle - Lavender,Candles,1,14.99,,Wales,Website,False,14.99,14.99
+ORD-10185,2025-10-06,C1155,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,South East,Website,False,28.0,28.0
+ORD-10186,2025-12-08,C1127,Ceramic Mug - Sage,Kitchen,1,12.5,15%,London,Website,False,12.5,10.62
+ORD-10187,2025-10-05,C1227,Linen Cushion Cover,Textiles,2,22.0,FREESHIP,Unknown,Etsy,False,44.0,44.0
+ORD-10188,2025-11-02,C1143,Soy Candle Gift Set,Candles,3,34.5,,South East,Etsy,False,103.5,103.5
+ORD-10189,2025-11-16,C1009,Ceramic Mug - Sand,Kitchen,3,12.5,15%,South East,Website,False,37.5,31.88
+ORD-10190,2025-10-06,C1183,Ceramic Mug - Sage,Kitchen,3,12.5,15%,South East,Website,False,37.5,31.88
+ORD-10191,2025-10-09,C1090,Reed Diffuser,Fragrance,2,19.99,,Midlands,Website,False,39.98,39.98
+ORD-10192,2025-07-03,C1158,Scented Candle - Lavender,Candles,2,14.99,15%,South East,Etsy,False,29.98,25.48
+ORD-10193,2025-12-16,C1300,Scented Candle - Lavender,Candles,1,14.99,,North West,Etsy,False,14.99,14.99
+ORD-10194,2025-09-27,C1249,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,Wales,Website,False,14.99,14.99
+ORD-10195,2025-12-22,C1293,Room Spray - Citrus,Fragrance,2,9.99,FREESHIP,London,Etsy,False,19.98,19.98
+ORD-10196,2025-11-26,C1362,Room Spray - Citrus,Fragrance,1,9.99,,North West,Instagram,False,9.99,9.99
+ORD-10197,2025-01-06,C1252,Linen Cushion Cover,Textiles,2,22.0,10%,South East,Etsy,False,44.0,39.6
+ORD-10198,2025-09-03,C1087,Room Spray - Citrus,Fragrance,2,9.99,,Scotland,Website,False,19.98,19.98
+ORD-10199,2025-02-17,C1209,Room Spray - Citrus,Fragrance,3,9.99,,Scotland,Website,False,29.97,29.97
+ORD-10200,2025-05-16,C1320,Cotton Throw Blanket,Textiles,1,45.0,FREESHIP,London,Etsy,False,45.0,45.0
+ORD-10201,2025-03-29,C1189,Scented Candle - Vanilla,Candles,1,14.99,10%,London,Etsy,False,14.99,13.49
+ORD-10202,2025-11-19,C1198,Scented Candle - Lavender,Candles,1,14.99,,Scotland,Website,False,14.99,14.99
+ORD-10203,2025-09-01,C1075,Linen Cushion Cover,Textiles,1,22.0,15%,London,Instagram,False,22.0,18.7
+ORD-10204,2025-03-27,C1034,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,South East,Instagram,False,22.0,22.0
+ORD-10205,2025-05-22,C1146,Scented Candle - Lavender,Candles,2,14.99,,North West,Website,False,29.98,29.98
+ORD-10206,2025-05-16,C1353,Bamboo Serving Board,Kitchen,1,28.0,,South East,Website,False,28.0,28.0
+ORD-10207,2025-11-10,C1213,Cotton Throw Blanket,Textiles,2,45.0,FREESHIP,Midlands,Etsy,False,90.0,90.0
+ORD-10208,2025-07-28,C1014,Reed Diffuser,Fragrance,3,19.99,15%,Midlands,Website,False,59.97,50.97
+ORD-10209,2025-11-02,C1090,Ceramic Mug - Sage,Kitchen,2,12.5,10%,London,Etsy,False,25.0,22.5
+ORD-10210,2025-11-24,C1333,Macrame Wall Hanging,Decor,1,39.0,,London,Website,False,39.0,39.0
+ORD-10211,2025-10-21,C1178,Soy Candle Gift Set,Candles,2,34.5,10%,London,Website,False,69.0,62.1
+ORD-10212,2025-09-24,C1055,Ceramic Mug - Sand,Kitchen,1,12.5,FREESHIP,London,Instagram,False,12.5,12.5
+ORD-10213,2025-06-16,C1206,Cotton Throw Blanket,Textiles,2,45.0,15%,Wales,Etsy,False,90.0,76.5
+ORD-10214,2025-12-02,C1351,Cotton Throw Blanket,Textiles,1,45.0,,South East,Website,False,45.0,45.0
+ORD-10215,2025-12-10,C1348,Cotton Throw Blanket,Textiles,2,45.0,,Midlands,Instagram,False,90.0,90.0
+ORD-10216,2025-04-25,C1036,Cotton Throw Blanket,Textiles,1,45.0,15%,Midlands,Website,False,45.0,38.25
+ORD-10217,2025-12-15,C1161,Cotton Throw Blanket,Textiles,1,45.0,,Midlands,Website,False,45.0,45.0
+ORD-10218,2025-06-20,C1066,Soy Candle Gift Set,Candles,1,34.5,,London,Website,False,34.5,34.5
+ORD-10219,2025-09-02,C1127,Scented Candle - Lavender,Candles,-1,14.99,FREESHIP,Unknown,Instagram,True,-14.99,-14.99
+ORD-10220,2025-02-22,C1068,Room Spray - Citrus,Fragrance,1,9.99,FREESHIP,London,Website,False,9.99,9.99
+ORD-10221,2025-11-01,C1319,Linen Cushion Cover,Textiles,1,22.0,15%,Wales,Website,False,22.0,18.7
+ORD-10222,2025-12-01,C1338,Scented Candle - Lavender,Candles,-2,14.99,10%,South East,Website,True,-29.98,-26.98
+ORD-10223,2025-10-17,C1360,Macrame Wall Hanging,Decor,2,39.0,,London,Etsy,False,78.0,78.0
+ORD-10224,2025-04-17,C1038,Bamboo Serving Board,Kitchen,1,28.0,15%,London,Etsy,False,28.0,23.8
+ORD-10225,2025-04-29,C1048,Cotton Throw Blanket,Textiles,1,45.0,,London,Etsy,False,45.0,45.0
+ORD-10226,2025-03-12,C1233,Soy Candle Gift Set,Candles,1,34.5,10%,Midlands,Instagram,False,34.5,31.05
+ORD-10227,2025-08-04,C1224,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,Scotland,Website,False,34.5,34.5
+ORD-10228,2025-01-15,C1268,Macrame Wall Hanging,Decor,-4,39.0,FREESHIP,London,Instagram,True,-156.0,-156.0
+ORD-10229,2025-12-09,Guest,Reed Diffuser,Fragrance,1,19.99,15%,Scotland,Website,False,19.99,16.99
+ORD-10230,2025-08-29,C1235,Soy Candle Gift Set,Candles,1,34.5,,South East,Website,False,34.5,34.5
+ORD-10231,2025-09-13,C1326,Scented Candle - Vanilla,Candles,4,14.99,15%,Scotland,Website,False,59.96,50.97
+ORD-10232,2025-12-10,C1231,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,London,Website,False,12.5,12.5
+ORD-10233,2025-06-24,C1054,Woven Storage Basket,Storage,4,31.0,10%,London,Website,False,124.0,111.6
+ORD-10234,2025-10-23,C1068,Ceramic Mug - Sage,Kitchen,1,12.5,15%,South East,Instagram,False,12.5,10.62
+ORD-10235,2025-10-11,C1310,Room Spray - Citrus,Fragrance,1,9.99,15%,South East,Instagram,False,9.99,8.49
+ORD-10236,2025-11-08,C1359,Linen Cushion Cover,Textiles,1,22.0,,Wales,Instagram,False,22.0,22.0
+ORD-10237,2025-10-11,C1355,Linen Cushion Cover,Textiles,1,22.0,15%,Scotland,Etsy,False,22.0,18.7
+ORD-10238,2025-10-15,C1012,Room Spray - Citrus,Fragrance,-3,9.99,,Scotland,Etsy,True,-29.97,-29.97
+ORD-10239,2025-05-17,C1345,Soy Candle Gift Set,Candles,4,34.5,15%,Scotland,Website,False,138.0,117.3
+ORD-10240,2025-10-15,C1282,Reed Diffuser,Fragrance,2,19.99,,Midlands,Website,False,39.98,39.98
+ORD-10241,2025-08-15,C1349,Woven Storage Basket,Storage,2,31.0,,North West,Etsy,False,62.0,62.0
+ORD-10242,2025-03-03,C1305,Ceramic Mug - Sand,Kitchen,-1,12.5,,London,Website,True,-12.5,-12.5
+ORD-10243,2025-12-05,C1274,Room Spray - Citrus,Fragrance,1,9.99,15%,London,Etsy,False,9.99,8.49
+ORD-10244,2025-12-06,C1228,Ceramic Mug - Sage,Kitchen,1,12.5,,Wales,Etsy,False,12.5,12.5
+ORD-10245,2025-05-05,C1263,Woven Storage Basket,Storage,3,31.0,,Unknown,Etsy,False,93.0,93.0
+ORD-10246,2025-12-03,C1053,Scented Candle - Vanilla,Candles,1,14.99,10%,Wales,Website,False,14.99,13.49
+ORD-10247,2025-08-11,C1132,Scented Candle - Vanilla,Candles,2,14.99,,London,Website,False,29.98,29.98
+ORD-10248,2025-12-04,C1351,Reed Diffuser,Fragrance,1,19.99,,Scotland,Website,False,19.99,19.99
+ORD-10249,2025-08-13,C1346,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0,31.0
+ORD-10250,2025-11-28,C1379,Scented Candle - Lavender,Candles,1,14.99,FREESHIP,North West,Website,False,14.99,14.99
+ORD-10251,2025-11-27,C1236,Soy Candle Gift Set,Candles,1,34.5,15%,London,Etsy,False,34.5,29.32
+ORD-10252,2025-12-19,C1337,Bamboo Serving Board,Kitchen,4,28.0,15%,South East,Etsy,False,112.0,95.2
+ORD-10253,2025-07-06,C1236,Ceramic Mug - Sand,Kitchen,1,12.5,10%,South East,Etsy,False,12.5,11.25
+ORD-10254,2025-12-03,C1015,Cotton Throw Blanket,Textiles,3,45.0,FREESHIP,London,Website,False,135.0,135.0
+ORD-10255,2025-04-19,C1068,Reed Diffuser,Fragrance,1,19.99,,Midlands,Website,False,19.99,19.99
+ORD-10256,2025-10-28,C1247,Room Spray - Citrus,Fragrance,2,9.99,FREESHIP,Scotland,Website,False,19.98,19.98
+ORD-10257,2025-11-08,C1360,Scented Candle - Lavender,Candles,2,14.99,,South East,Etsy,False,29.98,29.98
+ORD-10258,2025-05-15,C1207,Room Spray - Citrus,Fragrance,1,9.99,15%,North West,Website,False,9.99,8.49
+ORD-10259,2025-09-04,C1338,Scented Candle - Lavender,Candles,1,14.99,,London,Website,False,14.99,14.99
+ORD-10260,2025-09-04,C1293,Bamboo Serving Board,Kitchen,1,28.0,,London,Etsy,False,28.0,28.0
+ORD-10261,2025-09-22,C1246,Room Spray - Citrus,Fragrance,4,9.99,10%,North West,Instagram,False,39.96,35.96
+ORD-10262,2025-10-26,Guest,Soy Candle Gift Set,Candles,2,34.5,,South East,Website,False,69.0,69.0
+ORD-10263,2025-12-17,C1066,Soy Candle Gift Set,Candles,2,34.5,FREESHIP,London,Instagram,False,69.0,69.0
+ORD-10264,2025-12-14,C1389,Reed Diffuser,Fragrance,1,19.99,FREESHIP,Midlands,Etsy,False,19.99,19.99
+ORD-10265,2025-05-11,Guest,Linen Cushion Cover,Textiles,3,22.0,,London,Etsy,False,66.0,66.0
+ORD-10266,2025-06-11,C1211,Scented Candle - Vanilla,Candles,1,14.99,,North West,Website,False,14.99,14.99
+ORD-10267,2025-10-14,C1082,Cotton Throw Blanket,Textiles,4,45.0,FREESHIP,North West,Etsy,False,180.0,180.0
+ORD-10268,2025-10-09,C1189,Woven Storage Basket,Storage,2,31.0,,London,Instagram,False,62.0,62.0
+ORD-10269,2025-07-25,C1146,Reed Diffuser,Fragrance,1,19.99,15%,Unknown,Website,False,19.99,16.99
+ORD-10270,2025-10-22,Guest,Scented Candle - Lavender,Candles,1,14.99,,North West,Instagram,False,14.99,14.99
+ORD-10271,2025-10-09,C1259,Reed Diffuser,Fragrance,3,19.99,10%,South East,Instagram,False,59.97,53.97
+ORD-10272,2025-03-01,C1348,Cotton Throw Blanket,Textiles,3,45.0,10%,Midlands,Etsy,False,135.0,121.5
+ORD-10273,2025-03-01,C1127,Ceramic Mug - Sand,Kitchen,-2,12.5,,Wales,Etsy,True,-25.0,-25.0
+ORD-10274,2025-10-16,C1123,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,Midlands,Website,False,12.5,12.5
+ORD-10275,2025-05-08,C1246,Ceramic Mug - Sage,Kitchen,1,12.5,,London,Instagram,False,12.5,12.5
+ORD-10276,2025-10-22,C1177,Bamboo Serving Board,Kitchen,1,28.0,15%,Scotland,Website,False,28.0,23.8
+ORD-10277,2025-03-03,C1121,Bamboo Serving Board,Kitchen,1,28.0,,London,Etsy,False,28.0,28.0
+ORD-10278,2025-04-05,C1369,Linen Cushion Cover,Textiles,1,22.0,,Scotland,Website,False,22.0,22.0
+ORD-10279,2025-12-05,C1128,Bamboo Serving Board,Kitchen,2,28.0,,London,Website,False,56.0,56.0
+ORD-10280,2025-10-27,C1210,Cotton Throw Blanket,Textiles,1,45.0,,North West,Website,False,45.0,45.0
+ORD-10281,2025-04-12,C1314,Woven Storage Basket,Storage,2,31.0,10%,London,Etsy,False,62.0,55.8
+ORD-10282,2025-03-27,C1309,Ceramic Mug - Sage,Kitchen,1,12.5,,North West,Website,False,12.5,12.5
+ORD-10283,2025-07-05,C1107,Reed Diffuser,Fragrance,4,19.99,,South East,Website,False,79.96,79.96
+ORD-10284,2025-08-31,C1226,Scented Candle - Lavender,Candles,2,14.99,,North West,Instagram,False,29.98,29.98
+ORD-10285,2025-11-28,C1323,Ceramic Mug - Sage,Kitchen,3,12.5,10%,South East,Instagram,False,37.5,33.75
+ORD-10286,2025-11-24,C1388,Cotton Throw Blanket,Textiles,-3,45.0,15%,South East,Website,True,-135.0,-114.75
+ORD-10287,2025-01-05,C1223,Bamboo Serving Board,Kitchen,3,28.0,15%,South East,Website,False,84.0,71.4
+ORD-10288,2025-07-19,C1272,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,South East,Website,False,22.0,22.0
+ORD-10289,2025-10-21,C1137,Bamboo Serving Board,Kitchen,2,28.0,,Unknown,Etsy,False,56.0,56.0
+ORD-10290,2025-11-07,C1136,Ceramic Mug - Sage,Kitchen,1,12.5,,Scotland,Website,False,12.5,12.5
+ORD-10291,2025-04-09,C1101,Cotton Throw Blanket,Textiles,2,45.0,,Midlands,Website,False,90.0,90.0
+ORD-10292,2025-04-17,C1101,Woven Storage Basket,Storage,4,31.0,,Wales,Website,False,124.0,124.0
+ORD-10293,2025-11-11,C1394,Scented Candle - Lavender,Candles,1,14.99,,London,Website,False,14.99,14.99
+ORD-10294,2025-11-13,C1387,Woven Storage Basket,Storage,1,31.0,FREESHIP,South East,Website,False,31.0,31.0
+ORD-10295,2025-01-11,C1178,Ceramic Mug - Sage,Kitchen,2,12.5,15%,London,Website,False,25.0,21.25
+ORD-10296,2025-11-03,C1094,Reed Diffuser,Fragrance,1,19.99,FREESHIP,North West,Website,False,19.99,19.99
+ORD-10297,2025-12-03,C1049,Woven Storage Basket,Storage,4,31.0,,Midlands,Website,False,124.0,124.0
+ORD-10298,2025-10-07,C1113,Scented Candle - Vanilla,Candles,1,14.99,,London,Etsy,False,14.99,14.99
+ORD-10299,2025-04-17,C1136,Scented Candle - Vanilla,Candles,1,14.99,15%,North West,Website,False,14.99,12.74
+ORD-10300,2025-02-09,C1054,Reed Diffuser,Fragrance,1,19.99,FREESHIP,Scotland,Website,False,19.99,19.99
+ORD-10301,2025-12-26,C1281,Scented Candle - Vanilla,Candles,1,14.99,,London,Website,False,14.99,14.99
+ORD-10302,2025-11-21,C1000,Macrame Wall Hanging,Decor,1,39.0,10%,London,Website,False,39.0,35.1
+ORD-10303,2025-11-01,C1292,Cotton Throw Blanket,Textiles,4,45.0,15%,London,Website,False,180.0,153.0
+ORD-10304,2025-03-12,C1249,Room Spray - Citrus,Fragrance,1,9.99,,London,Website,False,9.99,9.99
+ORD-10305,2025-02-18,C1382,Cotton Throw Blanket,Textiles,1,45.0,,Midlands,Website,False,45.0,45.0
+ORD-10306,2025-11-20,C1385,Cotton Throw Blanket,Textiles,1,45.0,10%,South East,Etsy,False,45.0,40.5
+ORD-10307,2025-05-29,C1246,Soy Candle Gift Set,Candles,1,34.5,,London,Etsy,False,34.5,34.5
+ORD-10308,2025-04-11,C1178,Macrame Wall Hanging,Decor,1,39.0,,London,Website,False,39.0,39.0
+ORD-10309,2025-11-20,C1124,Bamboo Serving Board,Kitchen,2,28.0,,South East,Instagram,False,56.0,56.0
+ORD-10310,2025-12-26,C1373,Scented Candle - Vanilla,Candles,1,14.99,15%,South East,Website,False,14.99,12.74
+ORD-10311,2025-07-12,C1338,Woven Storage Basket,Storage,-1,31.0,10%,London,Website,True,-31.0,-27.9
+ORD-10312,2025-12-13,C1287,Linen Cushion Cover,Textiles,4,22.0,10%,South East,Etsy,False,88.0,79.2
+ORD-10313,2025-09-29,C1198,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0,28.0
+ORD-10314,2025-10-12,C1213,Linen Cushion Cover,Textiles,1,22.0,,Midlands,Etsy,False,22.0,22.0
+ORD-10315,2025-11-06,C1335,Reed Diffuser,Fragrance,1,19.99,,North West,Etsy,False,19.99,19.99
+ORD-10316,2025-10-13,C1381,Macrame Wall Hanging,Decor,1,39.0,10%,South East,Instagram,False,39.0,35.1
+ORD-10317,2025-10-04,C1352,Soy Candle Gift Set,Candles,-1,34.5,,Scotland,Etsy,True,-34.5,-34.5
+ORD-10318,2025-08-29,C1113,Ceramic Mug - Sage,Kitchen,1,12.5,10%,South East,Website,False,12.5,11.25
+ORD-10319,2025-11-28,C1313,Room Spray - Citrus,Fragrance,1,9.99,10%,South East,Website,False,9.99,8.99
+ORD-10320,2025-11-25,C1198,Scented Candle - Lavender,Candles,1,14.99,15%,South East,Etsy,False,14.99,12.74
+ORD-10321,2025-05-30,C1231,Cotton Throw Blanket,Textiles,2,45.0,FREESHIP,London,Website,False,90.0,90.0
+ORD-10322,2025-10-27,C1128,Macrame Wall Hanging,Decor,1,39.0,,South East,Website,False,39.0,39.0
+ORD-10323,2025-03-25,C1193,Scented Candle - Vanilla,Candles,1,14.99,,Scotland,Etsy,False,14.99,14.99
+ORD-10324,2025-06-21,C1092,Woven Storage Basket,Storage,3,31.0,FREESHIP,London,Website,False,93.0,93.0
+ORD-10325,2025-11-15,Guest,Scented Candle - Lavender,Candles,1,14.99,15%,Midlands,Website,False,14.99,12.74
+ORD-10326,2025-11-18,C1025,Linen Cushion Cover,Textiles,1,22.0,,London,Etsy,False,22.0,22.0
+ORD-10327,2025-05-26,C1188,Macrame Wall Hanging,Decor,2,39.0,,North West,Etsy,False,78.0,78.0
+ORD-10328,2025-11-05,C1270,Scented Candle - Vanilla,Candles,2,14.99,FREESHIP,London,Website,False,29.98,29.98
+ORD-10329,2025-12-28,C1252,Room Spray - Citrus,Fragrance,2,9.99,10%,London,Etsy,False,19.98,17.98
+ORD-10330,2025-05-29,C1286,Scented Candle - Lavender,Candles,1,14.99,,South East,Etsy,False,14.99,14.99
+ORD-10331,2025-12-20,C1099,Scented Candle - Vanilla,Candles,1,14.99,,South East,Website,False,14.99,14.99
+ORD-10332,2025-08-31,C1266,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0,31.0
+ORD-10333,2025-12-22,C1310,Ceramic Mug - Sage,Kitchen,2,12.5,15%,Midlands,Website,False,25.0,21.25
+ORD-10334,2025-06-07,C1057,Ceramic Mug - Sage,Kitchen,2,12.5,,London,Website,False,25.0,25.0
+ORD-10335,2025-02-17,C1264,Scented Candle - Lavender,Candles,2,14.99,,Midlands,Website,False,29.98,29.98
+ORD-10336,2025-08-24,C1159,Reed Diffuser,Fragrance,1,19.99,FREESHIP,South East,Website,False,19.99,19.99
+ORD-10337,2025-04-18,C1052,Linen Cushion Cover,Textiles,1,22.0,15%,Unknown,Etsy,False,22.0,18.7
+ORD-10338,2025-03-14,C1196,Cotton Throw Blanket,Textiles,1,45.0,,London,Website,False,45.0,45.0
+ORD-10339,2025-11-02,C1290,Woven Storage Basket,Storage,2,31.0,10%,Scotland,Etsy,False,62.0,55.8
+ORD-10340,2025-11-22,C1340,Woven Storage Basket,Storage,2,31.0,FREESHIP,South East,Website,False,62.0,62.0
+ORD-10341,2025-11-04,C1166,Ceramic Mug - Sage,Kitchen,1,12.5,,Midlands,Website,False,12.5,12.5
+ORD-10342,2025-08-25,C1290,Ceramic Mug - Sand,Kitchen,1,12.5,10%,London,Website,False,12.5,11.25
+ORD-10343,2025-12-06,C1035,Macrame Wall Hanging,Decor,3,39.0,10%,North West,Website,False,117.0,105.3
+ORD-10344,2025-07-14,C1231,Woven Storage Basket,Storage,2,31.0,,Unknown,Etsy,False,62.0,62.0
+ORD-10345,2025-11-10,C1261,Room Spray - Citrus,Fragrance,2,9.99,15%,Scotland,Instagram,False,19.98,16.98
+ORD-10346,2025-07-09,C1364,Scented Candle - Lavender,Candles,1,14.99,,North West,Instagram,False,14.99,14.99
+ORD-10347,2025-10-07,C1073,Reed Diffuser,Fragrance,1,19.99,,Wales,Etsy,False,19.99,19.99
+ORD-10348,2025-12-26,C1181,Ceramic Mug - Sand,Kitchen,3,12.5,10%,Midlands,Etsy,False,37.5,33.75
+ORD-10349,2025-09-13,C1353,Linen Cushion Cover,Textiles,2,22.0,10%,London,Instagram,False,44.0,39.6
+ORD-10350,2025-05-24,C1159,Scented Candle - Vanilla,Candles,1,14.99,15%,North West,Website,False,14.99,12.74
+ORD-10351,2025-01-06,C1155,Reed Diffuser,Fragrance,3,19.99,FREESHIP,North West,Website,False,59.97,59.97
+ORD-10352,2025-08-31,C1315,Room Spray - Citrus,Fragrance,1,9.99,,Wales,Etsy,False,9.99,9.99
+ORD-10353,2025-02-27,C1043,Room Spray - Citrus,Fragrance,2,9.99,,North West,Website,False,19.98,19.98
+ORD-10354,2025-09-11,C1026,Ceramic Mug - Sand,Kitchen,2,12.5,,London,Website,False,25.0,25.0
+ORD-10355,2025-12-23,C1021,Ceramic Mug - Sand,Kitchen,1,12.5,FREESHIP,London,Instagram,False,12.5,12.5
+ORD-10356,2025-08-10,C1344,Woven Storage Basket,Storage,3,31.0,FREESHIP,South East,Website,False,93.0,93.0
+ORD-10357,2025-12-20,C1098,Ceramic Mug - Sage,Kitchen,1,12.5,,Scotland,Etsy,False,12.5,12.5
+ORD-10358,2025-11-01,C1150,Linen Cushion Cover,Textiles,4,22.0,,North West,Etsy,False,88.0,88.0
+ORD-10359,2025-05-22,C1132,Macrame Wall Hanging,Decor,3,39.0,,Scotland,Website,False,117.0,117.0
+ORD-10360,2025-09-09,C1052,Linen Cushion Cover,Textiles,2,22.0,,London,Website,False,44.0,44.0
+ORD-10361,2025-11-05,C1244,Woven Storage Basket,Storage,2,31.0,10%,Wales,Etsy,False,62.0,55.8
+ORD-10362,2025-02-05,C1323,Scented Candle - Lavender,Candles,1,14.99,,Scotland,Etsy,False,14.99,14.99
+ORD-10363,2025-11-25,C1249,Cotton Throw Blanket,Textiles,2,45.0,,London,Website,False,90.0,90.0
+ORD-10364,2025-10-24,C1018,Room Spray - Citrus,Fragrance,1,9.99,,South East,Etsy,False,9.99,9.99
+ORD-10365,2025-12-22,C1009,Reed Diffuser,Fragrance,1,19.99,FREESHIP,Scotland,Instagram,False,19.99,19.99
+ORD-10366,2025-12-26,C1254,Scented Candle - Lavender,Candles,1,14.99,,London,Website,False,14.99,14.99
+ORD-10367,2025-04-14,C1088,Macrame Wall Hanging,Decor,2,39.0,15%,South East,Instagram,False,78.0,66.3
+ORD-10368,2025-11-18,Guest,Soy Candle Gift Set,Candles,-1,34.5,10%,Wales,Website,True,-34.5,-31.05
+ORD-10369,2025-11-30,C1312,Cotton Throw Blanket,Textiles,1,45.0,,Midlands,Etsy,False,45.0,45.0
+ORD-10370,2025-11-10,C1259,Woven Storage Basket,Storage,2,31.0,15%,South East,Website,False,62.0,52.7
+ORD-10371,2025-10-26,C1315,Soy Candle Gift Set,Candles,2,34.5,,Wales,Website,False,69.0,69.0
+ORD-10372,2025-01-27,C1346,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,London,Website,False,34.5,34.5
+ORD-10373,2025-12-14,C1234,Linen Cushion Cover,Textiles,1,22.0,,London,Website,False,22.0,22.0
+ORD-10374,2025-04-14,C1326,Scented Candle - Lavender,Candles,2,14.99,,London,Website,False,29.98,29.98
+ORD-10375,2025-10-11,C1126,Scented Candle - Vanilla,Candles,1,14.99,,Unknown,Instagram,False,14.99,14.99
+ORD-10376,2025-10-30,C1050,Room Spray - Citrus,Fragrance,3,9.99,FREESHIP,South East,Website,False,29.97,29.97
+ORD-10377,2025-01-07,C1382,Ceramic Mug - Sand,Kitchen,3,12.5,15%,London,Website,False,37.5,31.88
+ORD-10378,2025-03-12,C1016,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Midlands,Etsy,False,12.5,10.62
+ORD-10379,2025-11-10,C1196,Linen Cushion Cover,Textiles,2,22.0,,London,Instagram,False,44.0,44.0
+ORD-10380,2025-03-31,C1107,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,Scotland,Website,False,39.0,39.0
+ORD-10381,2025-05-17,C1231,Ceramic Mug - Sand,Kitchen,1,12.5,,London,Website,False,12.5,12.5
+ORD-10382,2025-11-03,C1321,Scented Candle - Vanilla,Candles,1,14.99,15%,London,Instagram,False,14.99,12.74
+ORD-10383,2025-03-09,C1167,Ceramic Mug - Sand,Kitchen,1,12.5,FREESHIP,North West,Website,False,12.5,12.5
+ORD-10384,2025-10-08,C1180,Cotton Throw Blanket,Textiles,1,45.0,,Midlands,Website,False,45.0,45.0
+ORD-10385,2025-03-24,C1225,Cotton Throw Blanket,Textiles,1,45.0,,London,Etsy,False,45.0,45.0
+ORD-10386,2025-01-18,Guest,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Instagram,False,12.5,12.5
+ORD-10387,2025-06-19,C1352,Cotton Throw Blanket,Textiles,1,45.0,,London,Instagram,False,45.0,45.0
+ORD-10388,2025-12-14,C1100,Cotton Throw Blanket,Textiles,1,45.0,,North West,Website,False,45.0,45.0
+ORD-10389,2025-12-10,C1189,Reed Diffuser,Fragrance,1,19.99,10%,South East,Etsy,False,19.99,17.99
+ORD-10390,2025-06-07,C1306,Reed Diffuser,Fragrance,1,19.99,15%,Scotland,Website,False,19.99,16.99
+ORD-10391,2025-09-26,C1102,Scented Candle - Vanilla,Candles,3,14.99,,North West,Website,False,44.97,44.97
+ORD-10392,2025-01-22,C1241,Cotton Throw Blanket,Textiles,2,45.0,FREESHIP,South East,Etsy,False,90.0,90.0
+ORD-10393,2025-04-02,C1132,Macrame Wall Hanging,Decor,2,39.0,10%,London,Etsy,False,78.0,70.2
+ORD-10394,2025-03-03,C1184,Macrame Wall Hanging,Decor,1,39.0,,Midlands,Website,False,39.0,39.0
+ORD-10395,2025-05-29,C1154,Woven Storage Basket,Storage,3,31.0,FREESHIP,South East,Etsy,False,93.0,93.0
+ORD-10396,2025-10-01,C1096,Soy Candle Gift Set,Candles,1,34.5,,South East,Website,False,34.5,34.5
+ORD-10397,2025-09-27,C1353,Macrame Wall Hanging,Decor,1,39.0,,Scotland,Website,False,39.0,39.0
+ORD-10398,2025-11-02,C1066,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Etsy,False,12.5,12.5
+ORD-10399,2025-11-25,C1386,Ceramic Mug - Sand,Kitchen,1,12.5,,London,Etsy,False,12.5,12.5
+ORD-10400,2025-10-28,C1313,Soy Candle Gift Set,Candles,2,34.5,FREESHIP,London,Website,False,69.0,69.0
+ORD-10401,2025-10-24,C1362,Reed Diffuser,Fragrance,1,19.99,15%,London,Website,False,19.99,16.99
+ORD-10402,2025-12-11,C1069,Soy Candle Gift Set,Candles,2,34.5,15%,Wales,Website,False,69.0,58.65
+ORD-10403,2025-11-04,C1035,Ceramic Mug - Sand,Kitchen,1,12.5,,North West,Website,False,12.5,12.5
+ORD-10404,2025-12-16,C1033,Woven Storage Basket,Storage,1,31.0,,South East,Etsy,False,31.0,31.0
+ORD-10405,2025-11-24,C1207,Bamboo Serving Board,Kitchen,1,28.0,15%,Scotland,Etsy,False,28.0,23.8
+ORD-10406,2025-11-16,C1347,Bamboo Serving Board,Kitchen,1,28.0,15%,Unknown,Website,False,28.0,23.8
+ORD-10407,2025-02-09,C1391,Reed Diffuser,Fragrance,2,19.99,,Midlands,Website,False,39.98,39.98
+ORD-10408,2025-07-16,C1366,Ceramic Mug - Sand,Kitchen,1,12.5,,London,Website,False,12.5,12.5
+ORD-10409,2025-09-09,C1392,Woven Storage Basket,Storage,1,31.0,,South East,Etsy,False,31.0,31.0
+ORD-10410,2025-11-12,C1126,Macrame Wall Hanging,Decor,1,39.0,,Scotland,Etsy,False,39.0,39.0
+ORD-10411,2025-11-04,C1301,Ceramic Mug - Sage,Kitchen,-1,12.5,10%,North West,Website,True,-12.5,-11.25
+ORD-10412,2025-06-15,C1325,Bamboo Serving Board,Kitchen,1,28.0,10%,Scotland,Website,False,28.0,25.2
+ORD-10413,2025-11-02,C1290,Cotton Throw Blanket,Textiles,4,45.0,,South East,Website,False,180.0,180.0
+ORD-10414,2025-02-09,C1009,Cotton Throw Blanket,Textiles,1,45.0,,London,Etsy,False,45.0,45.0
+ORD-10415,2025-12-15,C1236,Cotton Throw Blanket,Textiles,3,45.0,,North West,Etsy,False,135.0,135.0
+ORD-10416,2025-06-03,C1120,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Midlands,Website,False,12.5,10.62
+ORD-10417,2025-05-06,C1337,Cotton Throw Blanket,Textiles,1,45.0,,Unknown,Website,False,45.0,45.0
+ORD-10418,2025-09-06,C1203,Scented Candle - Lavender,Candles,3,14.99,,London,Etsy,False,44.97,44.97
+ORD-10419,2025-02-27,C1168,Reed Diffuser,Fragrance,3,19.99,,North West,Etsy,False,59.97,59.97
+ORD-10420,2025-05-01,C1162,Linen Cushion Cover,Textiles,1,22.0,,London,Instagram,False,22.0,22.0
+ORD-10421,2025-05-23,C1353,Soy Candle Gift Set,Candles,1,34.5,,Scotland,Etsy,False,34.5,34.5
+ORD-10422,2025-07-16,C1154,Macrame Wall Hanging,Decor,1,39.0,,Midlands,Website,False,39.0,39.0
+ORD-10423,2025-04-18,C1377,Soy Candle Gift Set,Candles,3,34.5,10%,North West,Instagram,False,103.5,93.15
+ORD-10424,2025-02-21,C1094,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,Unknown,Website,False,39.0,39.0
+ORD-10425,2025-11-11,C1231,Room Spray - Citrus,Fragrance,1,9.99,,London,Website,False,9.99,9.99
+ORD-10426,2025-12-18,C1285,Ceramic Mug - Sage,Kitchen,2,12.5,,London,Website,False,25.0,25.0
+ORD-10427,2025-12-28,C1344,Soy Candle Gift Set,Candles,1,34.5,10%,Unknown,Etsy,False,34.5,31.05
+ORD-10428,2025-05-17,C1014,Bamboo Serving Board,Kitchen,1,28.0,,South East,Website,False,28.0,28.0
+ORD-10429,2025-05-08,C1376,Woven Storage Basket,Storage,2,31.0,10%,London,Website,False,62.0,55.8
+ORD-10430,2025-01-27,C1317,Linen Cushion Cover,Textiles,-1,22.0,15%,South East,Etsy,True,-22.0,-18.7
+ORD-10431,2025-03-09,C1072,Reed Diffuser,Fragrance,1,19.99,10%,London,Website,False,19.99,17.99
+ORD-10432,2025-09-13,C1161,Cotton Throw Blanket,Textiles,2,45.0,,Wales,Website,False,90.0,90.0
+ORD-10433,2025-10-12,C1253,Woven Storage Basket,Storage,2,31.0,,South East,Website,False,62.0,62.0
+ORD-10434,2025-09-06,C1339,Scented Candle - Vanilla,Candles,2,14.99,15%,Midlands,Website,False,29.98,25.48
+ORD-10435,2025-09-27,C1302,Soy Candle Gift Set,Candles,1,34.5,,London,Etsy,False,34.5,34.5
+ORD-10436,2025-12-22,C1375,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,Wales,Etsy,False,28.0,28.0
+ORD-10437,2025-01-25,C1045,Cotton Throw Blanket,Textiles,1,45.0,10%,London,Website,False,45.0,40.5
+ORD-10438,2025-07-26,C1188,Woven Storage Basket,Storage,1,31.0,,London,Etsy,False,31.0,31.0
+ORD-10439,2025-09-01,C1346,Room Spray - Citrus,Fragrance,1,9.99,10%,Scotland,Etsy,False,9.99,8.99
+ORD-10440,2025-09-11,C1267,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0,31.0
+ORD-10441,2025-01-24,C1338,Reed Diffuser,Fragrance,-1,19.99,FREESHIP,London,Etsy,True,-19.99,-19.99
+ORD-10442,2025-12-10,C1040,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Etsy,False,12.5,12.5
+ORD-10443,2025-02-24,C1155,Scented Candle - Lavender,Candles,1,14.99,10%,London,Website,False,14.99,13.49
+ORD-10444,2025-12-11,C1074,Woven Storage Basket,Storage,1,31.0,FREESHIP,South East,Website,False,31.0,31.0
+ORD-10445,2025-11-25,C1299,Bamboo Serving Board,Kitchen,-1,28.0,10%,South East,Website,True,-28.0,-25.2
+ORD-10446,2025-10-04,C1248,Woven Storage Basket,Storage,-2,31.0,10%,South East,Website,True,-62.0,-55.8
+ORD-10447,2025-10-17,C1229,Scented Candle - Lavender,Candles,1,14.99,,South East,Website,False,14.99,14.99
+ORD-10448,2025-04-09,C1370,Bamboo Serving Board,Kitchen,1,28.0,,London,Instagram,False,28.0,28.0
+ORD-10449,2025-12-11,C1080,Ceramic Mug - Sage,Kitchen,2,12.5,,Midlands,Etsy,False,25.0,25.0
+ORD-10450,2025-09-10,C1316,Linen Cushion Cover,Textiles,1,22.0,,Wales,Website,False,22.0,22.0
+ORD-10451,2025-06-24,C1234,Scented Candle - Lavender,Candles,2,14.99,10%,North West,Instagram,False,29.98,26.98
+ORD-10452,2025-11-09,C1390,Scented Candle - Vanilla,Candles,2,14.99,10%,London,Website,False,29.98,26.98
+ORD-10453,2025-11-28,C1043,Soy Candle Gift Set,Candles,1,34.5,,London,Instagram,False,34.5,34.5
+ORD-10454,2025-11-19,C1349,Soy Candle Gift Set,Candles,2,34.5,15%,North West,Etsy,False,69.0,58.65
+ORD-10455,2025-01-06,C1029,Reed Diffuser,Fragrance,3,19.99,15%,London,Website,False,59.97,50.97
+ORD-10456,2025-09-24,C1312,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Unknown,Etsy,False,12.5,10.62
+ORD-10457,2025-04-16,C1275,Room Spray - Citrus,Fragrance,2,9.99,,North West,Etsy,False,19.98,19.98
+ORD-10458,2025-03-06,C1123,Reed Diffuser,Fragrance,1,19.99,,London,Etsy,False,19.99,19.99
+ORD-10459,2025-10-27,C1120,Ceramic Mug - Sage,Kitchen,-1,12.5,,South East,Website,True,-12.5,-12.5
+ORD-10460,2025-11-18,C1264,Room Spray - Citrus,Fragrance,1,9.99,,London,Etsy,False,9.99,9.99
+ORD-10461,2025-11-27,C1398,Ceramic Mug - Sand,Kitchen,1,12.5,15%,London,Instagram,False,12.5,10.62
+ORD-10462,2025-08-05,C1270,Macrame Wall Hanging,Decor,3,39.0,15%,South East,Instagram,False,117.0,99.45
+ORD-10463,2025-03-22,C1155,Ceramic Mug - Sage,Kitchen,3,12.5,,London,Instagram,False,37.5,37.5
+ORD-10464,2025-10-29,C1231,Cotton Throw Blanket,Textiles,3,45.0,15%,London,Etsy,False,135.0,114.75
+ORD-10465,2025-10-17,C1202,Woven Storage Basket,Storage,1,31.0,,South East,Website,False,31.0,31.0
+ORD-10466,2025-08-15,C1316,Woven Storage Basket,Storage,1,31.0,,London,Website,False,31.0,31.0
+ORD-10467,2025-11-17,C1205,Scented Candle - Lavender,Candles,1,14.99,,Wales,Website,False,14.99,14.99
+ORD-10468,2025-06-24,C1078,Ceramic Mug - Sand,Kitchen,1,12.5,,North West,Website,False,12.5,12.5
+ORD-10469,2025-11-11,C1103,Soy Candle Gift Set,Candles,1,34.5,,London,Website,False,34.5,34.5
+ORD-10470,2025-09-18,C1283,Ceramic Mug - Sand,Kitchen,3,12.5,,London,Website,False,37.5,37.5
+ORD-10471,2025-10-12,C1275,Soy Candle Gift Set,Candles,1,34.5,,South East,Website,False,34.5,34.5
+ORD-10472,2025-11-27,C1323,Room Spray - Citrus,Fragrance,1,9.99,,Wales,Website,False,9.99,9.99
+ORD-10473,2025-03-24,C1162,Room Spray - Citrus,Fragrance,1,9.99,15%,London,Etsy,False,9.99,8.49
+ORD-10474,2025-12-29,Guest,Linen Cushion Cover,Textiles,2,22.0,15%,South East,Website,False,44.0,37.4
+ORD-10475,2025-10-12,C1344,Macrame Wall Hanging,Decor,1,39.0,10%,South East,Website,False,39.0,35.1
+ORD-10476,2025-11-04,C1348,Soy Candle Gift Set,Candles,-2,34.5,,Midlands,Instagram,True,-69.0,-69.0
+ORD-10477,2025-11-11,C1202,Macrame Wall Hanging,Decor,-1,39.0,FREESHIP,Wales,Instagram,True,-39.0,-39.0
+ORD-10478,2025-03-29,C1267,Woven Storage Basket,Storage,2,31.0,,Scotland,Etsy,False,62.0,62.0
+ORD-10479,2025-01-12,C1221,Macrame Wall Hanging,Decor,2,39.0,,North West,Etsy,False,78.0,78.0
+ORD-10480,2025-09-23,C1041,Ceramic Mug - Sage,Kitchen,1,12.5,,London,Etsy,False,12.5,12.5
+ORD-10481,2025-04-26,C1303,Ceramic Mug - Sand,Kitchen,4,12.5,,Unknown,Website,False,50.0,50.0
+ORD-10482,2025-10-11,C1043,Scented Candle - Lavender,Candles,2,14.99,,South East,Website,False,29.98,29.98
+ORD-10483,2025-10-02,C1119,Bamboo Serving Board,Kitchen,1,28.0,10%,North West,Website,False,28.0,25.2
+ORD-10484,2025-08-21,C1006,Ceramic Mug - Sand,Kitchen,3,12.5,,North West,Website,False,37.5,37.5
+ORD-10485,2025-04-10,C1262,Soy Candle Gift Set,Candles,2,34.5,10%,London,Website,False,69.0,62.1
+ORD-10486,2025-10-05,C1027,Soy Candle Gift Set,Candles,1,34.5,15%,North West,Website,False,34.5,29.32
+ORD-10487,2025-04-14,C1214,Ceramic Mug - Sage,Kitchen,1,12.5,,South East,Etsy,False,12.5,12.5
+ORD-10488,2025-01-22,C1105,Scented Candle - Lavender,Candles,2,14.99,10%,Scotland,Website,False,29.98,26.98
+ORD-10489,2025-10-18,C1134,Scented Candle - Vanilla,Candles,1,14.99,,South East,Etsy,False,14.99,14.99
+ORD-10490,2025-10-27,C1338,Cotton Throw Blanket,Textiles,3,45.0,,London,Etsy,False,135.0,135.0
+ORD-10491,2025-11-16,C1125,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,London,Instagram,False,39.0,39.0
+ORD-10492,2025-10-02,C1240,Soy Candle Gift Set,Candles,1,34.5,,London,Etsy,False,34.5,34.5
+ORD-10493,2025-07-18,C1137,Woven Storage Basket,Storage,2,31.0,10%,South East,Website,False,62.0,55.8
+ORD-10494,2025-10-07,C1384,Bamboo Serving Board,Kitchen,3,28.0,,South East,Website,False,84.0,84.0
+ORD-10495,2025-12-20,C1038,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,South East,Website,False,12.5,12.5
+ORD-10496,2025-09-20,C1393,Scented Candle - Vanilla,Candles,2,14.99,FREESHIP,Wales,Website,False,29.98,29.98
+ORD-10497,2025-03-12,C1387,Macrame Wall Hanging,Decor,2,39.0,15%,Midlands,Website,False,78.0,66.3
+ORD-10498,2025-03-18,C1160,Linen Cushion Cover,Textiles,1,22.0,,Scotland,Website,False,22.0,22.0
+ORD-10499,2025-11-28,C1214,Reed Diffuser,Fragrance,1,19.99,,London,Instagram,False,19.99,19.99
+ORD-10500,2025-12-20,C1293,Ceramic Mug - Sage,Kitchen,1,12.5,15%,North West,Website,False,12.5,10.62
+ORD-10501,2025-11-07,C1013,Bamboo Serving Board,Kitchen,1,28.0,10%,North West,Website,False,28.0,25.2
+ORD-10502,2025-11-22,C1214,Reed Diffuser,Fragrance,1,19.99,15%,London,Website,False,19.99,16.99
+ORD-10503,2025-10-10,C1228,Ceramic Mug - Sand,Kitchen,-2,12.5,,North West,Website,True,-25.0,-25.0
+ORD-10504,2025-09-27,C1152,Room Spray - Citrus,Fragrance,3,9.99,FREESHIP,South East,Etsy,False,29.97,29.97
+ORD-10505,2025-12-24,C1321,Ceramic Mug - Sand,Kitchen,1,12.5,,Midlands,Website,False,12.5,12.5
+ORD-10506,2025-04-22,C1106,Ceramic Mug - Sand,Kitchen,4,12.5,,North West,Instagram,False,50.0,50.0
+ORD-10507,2025-12-22,C1236,Bamboo Serving Board,Kitchen,1,28.0,10%,Scotland,Instagram,False,28.0,25.2
+ORD-10508,2025-11-27,C1139,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,London,Website,False,34.5,34.5
+ORD-10509,2025-01-18,C1227,Reed Diffuser,Fragrance,1,19.99,,Scotland,Etsy,False,19.99,19.99
+ORD-10510,2025-04-14,C1340,Ceramic Mug - Sage,Kitchen,3,12.5,,London,Website,False,37.5,37.5
+ORD-10511,2025-02-25,C1205,Ceramic Mug - Sage,Kitchen,1,12.5,,London,Website,False,12.5,12.5
+ORD-10512,2025-11-21,C1087,Room Spray - Citrus,Fragrance,1,9.99,15%,London,Website,False,9.99,8.49
+ORD-10513,2025-11-20,Guest,Woven Storage Basket,Storage,3,31.0,,Scotland,Website,False,93.0,93.0
+ORD-10514,2025-09-19,C1040,Linen Cushion Cover,Textiles,1,22.0,15%,Scotland,Website,False,22.0,18.7
+ORD-10515,2025-03-19,C1266,Woven Storage Basket,Storage,1,31.0,,Wales,Etsy,False,31.0,31.0
+ORD-10516,2025-12-11,C1266,Ceramic Mug - Sage,Kitchen,1,12.5,10%,North West,Instagram,False,12.5,11.25
+ORD-10517,2025-10-02,C1371,Woven Storage Basket,Storage,4,31.0,10%,Wales,Website,False,124.0,111.6
+ORD-10518,2025-10-10,C1225,Cotton Throw Blanket,Textiles,1,45.0,10%,Wales,Website,False,45.0,40.5
+ORD-10519,2025-03-21,C1194,Bamboo Serving Board,Kitchen,1,28.0,,South East,Instagram,False,28.0,28.0
+ORD-10520,2025-11-07,C1202,Ceramic Mug - Sage,Kitchen,1,12.5,10%,South East,Website,False,12.5,11.25
+ORD-10521,2025-11-25,C1178,Scented Candle - Vanilla,Candles,1,14.99,FREESHIP,London,Instagram,False,14.99,14.99
+ORD-10522,2025-11-14,C1348,Macrame Wall Hanging,Decor,1,39.0,10%,South East,Instagram,False,39.0,35.1
+ORD-10523,2025-12-06,C1084,Scented Candle - Lavender,Candles,1,14.99,10%,London,Etsy,False,14.99,13.49
+ORD-10524,2025-09-30,C1383,Ceramic Mug - Sand,Kitchen,1,12.5,,Scotland,Etsy,False,12.5,12.5
+ORD-10525,2025-10-25,C1230,Macrame Wall Hanging,Decor,1,39.0,,South East,Website,False,39.0,39.0
+ORD-10526,2025-04-04,C1063,Linen Cushion Cover,Textiles,1,22.0,10%,Midlands,Website,False,22.0,19.8
+ORD-10527,2025-09-02,C1266,Scented Candle - Vanilla,Candles,-1,14.99,15%,London,Instagram,True,-14.99,-12.74
+ORD-10528,2025-08-31,C1182,Room Spray - Citrus,Fragrance,1,9.99,,South East,Instagram,False,9.99,9.99
+ORD-10529,2025-12-24,C1263,Soy Candle Gift Set,Candles,1,34.5,10%,London,Website,False,34.5,31.05
+ORD-10530,2025-11-28,C1337,Scented Candle - Lavender,Candles,4,14.99,10%,Scotland,Etsy,False,59.96,53.96
+ORD-10531,2025-05-31,C1239,Macrame Wall Hanging,Decor,1,39.0,15%,North West,Etsy,False,39.0,33.15
+ORD-10532,2025-12-06,C1392,Linen Cushion Cover,Textiles,1,22.0,10%,Scotland,Etsy,False,22.0,19.8
+ORD-10533,2025-10-18,C1367,Woven Storage Basket,Storage,2,31.0,10%,London,Etsy,False,62.0,55.8
+ORD-10534,2025-10-15,C1293,Ceramic Mug - Sand,Kitchen,2,12.5,,London,Website,False,25.0,25.0
+ORD-10535,2025-10-23,C1339,Cotton Throw Blanket,Textiles,1,45.0,15%,North West,Etsy,False,45.0,38.25
+ORD-10536,2025-10-03,C1017,Ceramic Mug - Sage,Kitchen,1,12.5,FREESHIP,Wales,Etsy,False,12.5,12.5
+ORD-10537,2025-03-05,C1115,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,North West,Website,False,39.0,39.0
+ORD-10538,2025-04-02,C1387,Macrame Wall Hanging,Decor,1,39.0,,Wales,Etsy,False,39.0,39.0
+ORD-10539,2025-05-25,C1234,Linen Cushion Cover,Textiles,2,22.0,,North West,Website,False,44.0,44.0
+ORD-10540,2025-09-05,C1192,Soy Candle Gift Set,Candles,1,34.5,,Midlands,Website,False,34.5,34.5
+ORD-10541,2025-11-06,C1250,Scented Candle - Lavender,Candles,1,14.99,10%,South East,Website,False,14.99,13.49
+ORD-10542,2025-07-12,C1062,Woven Storage Basket,Storage,2,31.0,,Scotland,Instagram,False,62.0,62.0
+ORD-10543,2025-01-12,C1050,Room Spray - Citrus,Fragrance,1,9.99,,Scotland,Website,False,9.99,9.99
+ORD-10544,2025-12-01,C1385,Ceramic Mug - Sand,Kitchen,1,12.5,,North West,Etsy,False,12.5,12.5
+ORD-10545,2025-04-03,C1043,Macrame Wall Hanging,Decor,1,39.0,,North West,Etsy,False,39.0,39.0
+ORD-10546,2025-12-01,C1180,Linen Cushion Cover,Textiles,1,22.0,15%,Wales,Website,False,22.0,18.7
+ORD-10547,2025-12-06,C1318,Linen Cushion Cover,Textiles,1,22.0,FREESHIP,London,Instagram,False,22.0,22.0
+ORD-10548,2025-11-29,C1365,Ceramic Mug - Sand,Kitchen,1,12.5,,Wales,Etsy,False,12.5,12.5
+ORD-10549,2025-10-11,C1185,Ceramic Mug - Sand,Kitchen,1,12.5,,Wales,Website,False,12.5,12.5
+ORD-10550,2025-04-26,C1270,Scented Candle - Vanilla,Candles,1,14.99,,Wales,Website,False,14.99,14.99
+ORD-10551,2025-05-19,C1244,Scented Candle - Lavender,Candles,1,14.99,10%,Wales,Website,False,14.99,13.49
+ORD-10552,2025-03-21,C1234,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,Scotland,Website,False,34.5,34.5
+ORD-10553,2025-09-15,C1324,Ceramic Mug - Sand,Kitchen,1,12.5,,Scotland,Instagram,False,12.5,12.5
+ORD-10554,2025-03-26,C1254,Scented Candle - Vanilla,Candles,2,14.99,10%,North West,Website,False,29.98,26.98
+ORD-10555,2025-10-20,C1391,Linen Cushion Cover,Textiles,3,22.0,FREESHIP,Scotland,Etsy,False,66.0,66.0
+ORD-10556,2025-03-10,C1153,Scented Candle - Lavender,Candles,1,14.99,,South East,Website,False,14.99,14.99
+ORD-10557,2025-11-20,Guest,Linen Cushion Cover,Textiles,3,22.0,,Wales,Instagram,False,66.0,66.0
+ORD-10558,2025-12-06,C1128,Ceramic Mug - Sand,Kitchen,-1,12.5,FREESHIP,London,Website,True,-12.5,-12.5
+ORD-10559,2025-08-08,C1101,Reed Diffuser,Fragrance,2,19.99,FREESHIP,London,Website,False,39.98,39.98
+ORD-10560,2025-08-04,C1065,Scented Candle - Lavender,Candles,1,14.99,FREESHIP,London,Website,False,14.99,14.99
+ORD-10561,2025-09-14,C1347,Macrame Wall Hanging,Decor,2,39.0,,Unknown,Website,False,78.0,78.0
+ORD-10562,2025-01-05,C1126,Cotton Throw Blanket,Textiles,1,45.0,FREESHIP,London,Website,False,45.0,45.0
+ORD-10563,2025-02-22,Guest,Reed Diffuser,Fragrance,2,19.99,,London,Instagram,False,39.98,39.98
+ORD-10564,2025-07-14,C1143,Cotton Throw Blanket,Textiles,2,45.0,,Wales,Website,False,90.0,90.0
+ORD-10565,2025-10-02,Guest,Woven Storage Basket,Storage,2,31.0,,London,Website,False,62.0,62.0
+ORD-10566,2025-06-19,C1380,Ceramic Mug - Sage,Kitchen,2,12.5,FREESHIP,North West,Etsy,False,25.0,25.0
+ORD-10567,2025-12-02,C1078,Linen Cushion Cover,Textiles,2,22.0,FREESHIP,Wales,Website,False,44.0,44.0
+ORD-10568,2025-05-10,C1085,Reed Diffuser,Fragrance,4,19.99,,Midlands,Website,False,79.96,79.96
+ORD-10569,2025-01-24,C1196,Scented Candle - Lavender,Candles,2,14.99,15%,Scotland,Etsy,False,29.98,25.48
+ORD-10570,2025-10-19,C1362,Linen Cushion Cover,Textiles,1,22.0,,London,Instagram,False,22.0,22.0
+ORD-10571,2025-10-21,C1000,Soy Candle Gift Set,Candles,3,34.5,,London,Website,False,103.5,103.5
+ORD-10572,2025-12-18,C1090,Cotton Throw Blanket,Textiles,2,45.0,,South East,Etsy,False,90.0,90.0
+ORD-10573,2025-12-23,C1385,Ceramic Mug - Sand,Kitchen,3,12.5,FREESHIP,London,Etsy,False,37.5,37.5
+ORD-10574,2025-08-11,C1158,Bamboo Serving Board,Kitchen,1,28.0,,London,Website,False,28.0,28.0
+ORD-10575,2025-10-03,C1196,Ceramic Mug - Sand,Kitchen,1,12.5,10%,Midlands,Instagram,False,12.5,11.25
+ORD-10576,2025-11-26,C1173,Soy Candle Gift Set,Candles,1,34.5,FREESHIP,London,Website,False,34.5,34.5
+ORD-10577,2025-10-16,C1151,Soy Candle Gift Set,Candles,1,34.5,15%,Unknown,Website,False,34.5,29.32
+ORD-10578,2025-01-01,C1251,Scented Candle - Lavender,Candles,1,14.99,,South East,Website,False,14.99,14.99
+ORD-10579,2025-05-25,C1217,Room Spray - Citrus,Fragrance,1,9.99,FREESHIP,South East,Instagram,False,9.99,9.99
+ORD-10580,2025-05-27,C1398,Scented Candle - Vanilla,Candles,1,14.99,,South East,Website,False,14.99,14.99
+ORD-10581,2025-09-02,C1355,Scented Candle - Vanilla,Candles,1,14.99,10%,Wales,Website,False,14.99,13.49
+ORD-10582,2025-03-12,C1215,Woven Storage Basket,Storage,3,31.0,FREESHIP,South East,Website,False,93.0,93.0
+ORD-10583,2025-04-23,C1150,Linen Cushion Cover,Textiles,1,22.0,,London,Instagram,False,22.0,22.0
+ORD-10584,2025-10-02,C1297,Macrame Wall Hanging,Decor,1,39.0,FREESHIP,Wales,Etsy,False,39.0,39.0
+ORD-10585,2025-10-03,C1240,Linen Cushion Cover,Textiles,1,22.0,,North West,Etsy,False,22.0,22.0
+ORD-10586,2025-10-05,C1364,Scented Candle - Lavender,Candles,3,14.99,15%,London,Etsy,False,44.97,38.22
+ORD-10587,2025-10-09,C1039,Scented Candle - Vanilla,Candles,1,14.99,15%,Wales,Website,False,14.99,12.74
+ORD-10588,2025-11-25,C1054,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Unknown,Etsy,False,12.5,10.62
+ORD-10589,2025-10-21,C1004,Scented Candle - Lavender,Candles,1,14.99,,London,Etsy,False,14.99,14.99
+ORD-10590,2025-11-24,C1300,Ceramic Mug - Sage,Kitchen,4,12.5,10%,Unknown,Website,False,50.0,45.0
+ORD-10591,2025-12-16,C1373,Woven Storage Basket,Storage,1,31.0,15%,Scotland,Instagram,False,31.0,26.35
+ORD-10592,2025-08-18,C1038,Ceramic Mug - Sage,Kitchen,1,12.5,15%,North West,Instagram,False,12.5,10.62
+ORD-10593,2025-02-19,C1082,Soy Candle Gift Set,Candles,2,34.5,,South East,Instagram,False,69.0,69.0
+ORD-10594,2025-11-09,C1205,Bamboo Serving Board,Kitchen,4,28.0,,Scotland,Website,False,112.0,112.0
+ORD-10595,2025-08-14,C1029,Room Spray - Citrus,Fragrance,4,9.99,FREESHIP,South East,Etsy,False,39.96,39.96
+ORD-10596,2025-10-10,C1055,Ceramic Mug - Sand,Kitchen,1,12.5,10%,South East,Website,False,12.5,11.25
+ORD-10597,2025-07-23,C1079,Linen Cushion Cover,Textiles,1,22.0,15%,London,Website,False,22.0,18.7
+ORD-10598,2025-12-25,C1129,Ceramic Mug - Sand,Kitchen,1,12.5,,Midlands,Etsy,False,12.5,12.5
+ORD-10599,2025-12-15,C1101,Ceramic Mug - Sand,Kitchen,1,12.5,,North West,Website,False,12.5,12.5
+ORD-10600,2025-12-19,C1315,Macrame Wall Hanging,Decor,1,39.0,15%,Midlands,Etsy,False,39.0,33.15
+ORD-10601,2025-11-05,C1230,Bamboo Serving Board,Kitchen,3,28.0,FREESHIP,London,Instagram,False,84.0,84.0
+ORD-10602,2025-04-07,C1008,Reed Diffuser,Fragrance,2,19.99,,North West,Website,False,39.98,39.98
+ORD-10603,2025-03-05,C1219,Woven Storage Basket,Storage,4,31.0,10%,South East,Website,False,124.0,111.6
+ORD-10604,2025-08-12,C1045,Woven Storage Basket,Storage,2,31.0,,South East,Website,False,62.0,62.0
+ORD-10605,2025-09-12,C1195,Room Spray - Citrus,Fragrance,3,9.99,15%,London,Website,False,29.97,25.47
+ORD-10606,2025-06-29,C1135,Bamboo Serving Board,Kitchen,1,28.0,FREESHIP,Midlands,Etsy,False,28.0,28.0
+ORD-10607,2025-11-02,C1284,Scented Candle - Lavender,Candles,1,14.99,,Midlands,Etsy,False,14.99,14.99
+ORD-10608,2025-01-27,C1258,Room Spray - Citrus,Fragrance,1,9.99,,Wales,Website,False,9.99,9.99
+ORD-10609,2025-11-18,C1040,Reed Diffuser,Fragrance,1,19.99,15%,South East,Website,False,19.99,16.99
+ORD-10610,2025-08-21,C1337,Ceramic Mug - Sage,Kitchen,1,12.5,,North West,Website,False,12.5,12.5
+ORD-10611,2025-01-12,C1106,Room Spray - Citrus,Fragrance,3,9.99,,London,Instagram,False,29.97,29.97
+ORD-10612,2025-02-07,C1337,Woven Storage Basket,Storage,-1,31.0,,Scotland,Website,True,-31.0,-31.0
+ORD-10613,2025-06-25,C1110,Bamboo Serving Board,Kitchen,4,28.0,,North West,Website,False,112.0,112.0
+ORD-10614,2025-10-24,C1223,Macrame Wall Hanging,Decor,3,39.0,10%,London,Website,False,117.0,105.3
+ORD-10615,2025-12-09,C1382,Ceramic Mug - Sand,Kitchen,1,12.5,15%,Midlands,Etsy,False,12.5,10.62
+ORD-10616,2025-07-16,C1330,Room Spray - Citrus,Fragrance,1,9.99,15%,Midlands,Etsy,False,9.99,8.49
+ORD-10617,2025-11-14,C1238,Soy Candle Gift Set,Candles,1,34.5,,London,Etsy,False,34.5,34.5
+ORD-10618,2025-02-03,C1215,Room Spray - Citrus,Fragrance,1,9.99,FREESHIP,London,Etsy,False,9.99,9.99
+ORD-10619,2025-11-16,C1294,Scented Candle - Lavender,Candles,4,14.99,FREESHIP,South East,Website,False,59.96,59.96
+ORD-10620,2025-12-17,C1396,Scented Candle - Lavender,Candles,1,14.99,15%,London,Website,False,14.99,12.74
